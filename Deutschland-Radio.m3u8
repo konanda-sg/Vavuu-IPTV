@@ -1,0 +1,51 @@
+#EXTM3U8
+#EXTINF:-1 tvg-id="" tvg-name="DE| Radio" tvg-logo="" group-title="DE| Radio",MDR JUMP Rockchannel
+http://avw.mdr.de/streams/284321-1_mp3_high.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DE| Radio" tvg-logo="" group-title="DE| Radio",Deutschlandfunk
+https://st01.sslstream.dlf.de/dlf/01/128/mp3/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="DE| Radio" tvg-logo="" group-title="DE| Radio",Deutschlandfunk Nova
+https://st03.sslstream.dlf.de/dlf/03/128/mp3/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="DE| Radio" tvg-logo="" group-title="DE| Radio",Deutschlandfunk Kultur
+https://st02.sslstream.dlf.de/dlf/02/128/mp3/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="DE| Radio" tvg-logo="" group-title="DE| Radio",Eins Live Diggi
+http://www.wdr.de/wdrlive/media/einslivedigi.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DE| Radio" tvg-logo="" group-title="DE| Radio",Radio Fritz
+http://www.fritz.de/live.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DE| Radio" tvg-logo="" group-title="DE| Radio",radioeins
+http://www.radioeins.de/live.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DE| Radio" tvg-logo="" group-title="DE| Radio",MDR AKTUELL
+http://avw.mdr.de/streams/284340-0_mp3_high.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DE| Radio" tvg-logo="" group-title="DE| Radio",MDR KULTUR
+http://avw.mdr.de/streams/284310-0_mp3_high.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DE| Radio" tvg-logo="" group-title="DE| Radio",MDR KULTUR - Folk im Konzert
+http://avw.mdr.de/streams/284311-1_mp3_high.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DE| Radio" tvg-logo="" group-title="DE| Radio",MDR JUMP
+http://avw.mdr.de/streams/284320-0_mp3_high.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DE| Radio" tvg-logo="" group-title="DE| Radio",MDR JUMP In the Mix Channel
+http://avw.mdr.de/streams/284321-2_mp3_high.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DE| Radio" tvg-logo="" group-title="DE| Radio",MDR JUMP Trendchannel
+http://avw.mdr.de/streams/284321-0_mp3_high.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DE| Radio" tvg-logo="" group-title="DE| Radio",MDR SACHSEN-ANHALT
+http://avw.mdr.de/streams/284290-0_mp3_high.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DE| Radio" tvg-logo="" group-title="DE| Radio",MDR SPUTNIK Black-Channel
+http://avw.mdr.de/streams/284331-0_mp3_high.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DE| Radio" tvg-logo="" group-title="DE| Radio",MDR SPUTNIK Club-Channel
+http://avw.mdr.de/streams/284331-2_mp3_high.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DE| Radio" tvg-logo="" group-title="DE| Radio",MDR SPUTNIK Insomnia Channel
+http://avw.mdr.de/streams/284331-3_mp3_high.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DE| Radio" tvg-logo="" group-title="DE| Radio",MDR SPUTNIK OnAir Channel
+http://avw.mdr.de/streams/284330-0_mp3_high.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DE| Radio" tvg-logo="" group-title="DE| Radio",MDR SPUTNIK Popkult-Channel
+http://avw.mdr.de/streams/284331-4_mp3_high.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DE| Radio" tvg-logo="" group-title="DE| Radio",MDR SPUTNIK Roboton-Channel
+http://avw.mdr.de/streams/284331-5_mp3_high.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DE| Radio" tvg-logo="" group-title="DE| Radio",MDR SPUTNIK Rock-Channel
+http://avw.mdr.de/streams/284331-1_mp3_high.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DE| Radio" tvg-logo="" group-title="DE| Radio",MDR SPUTNIK Soundcheck-Channel
+http://avw.mdr.de/streams/284331-6_mp3_high.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DE| Radio" tvg-logo="" group-title="DE| Radio",MDR THÜRINGEN - Das Radio
+http://avw.mdr.de/streams/284300-0_mp3_high.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DE| Radio" tvg-logo="" group-title="DE| Radio",die neue welle
+http://www.die-neue-welle.de/dnw_128.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DE| Radio" tvg-logo="" group-title="DE| Radio",AlternativeFM
+http://www.alternativefm.de/afm_128.m3u
