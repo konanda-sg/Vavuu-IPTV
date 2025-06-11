@@ -1,0 +1,1049 @@
+#EXTM3U8 x-url-tvg=https://vav00.de/sources/epg/epg_de.xml,https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz,https://epg.pw/xmltv/epg_DE.xml
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="FILM 1 ACTION", FILM 1 ACTION
+https://huhu.to/play/887233041/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="FILM 1 DRAMA", FILM 1 DRAMA
+https://huhu.to/play/2329363703/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="FILM 1 PREMIERE", FILM 1 PREMIERE
+https://huhu.to/play/2143191607/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="ESPN", ESPN
+https://huhu.to/play/1484494458/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="ESPN 3", ESPN 3
+https://huhu.to/play/697377561/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="ESPN 2", ESPN 2
+https://huhu.to/play/405473735/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="FILM 1 FAMILY", FILM 1 FAMILY
+https://huhu.to/play/3479714514/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="100", 100
+https://huhu.to/play/740890222/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="ESPN 3", ESPN 3
+https://huhu.to/play/625680503/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="FASHION TV", FASHION TV
+https://huhu.to/play/1467439935/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="ZIGGO DOCU", ZIGGO DOCU
+https://huhu.to/play/3864809811/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="HBO 2", HBO 2
+https://huhu.to/play/3329797203/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="HBO", HBO
+https://huhu.to/play/3690874941/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="NPO 3", NPO 3
+https://huhu.to/play/3063728703/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="ESPN 2", ESPN 2
+https://huhu.to/play/351341225/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="ESPN", ESPN
+https://huhu.to/play/1397846137/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="NICKMUSIC", NICKMUSIC
+https://huhu.to/play/518270746/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="ZIGGO SPORT", ZIGGO SPORT
+https://huhu.to/play/2013686690/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="MTV 80S", MTV 80S
+https://huhu.to/play/3255925618/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="ZIGGO SPORT SELECT", ZIGGO SPORT SELECT
+https://huhu.to/play/1585597115/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="SBS 6", SBS 6
+https://huhu.to/play/3172147333/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="NPO 3", NPO 3
+https://huhu.to/play/3029900579/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="ZIGGO SPORT TENNIS", ZIGGO SPORT TENNIS
+https://huhu.to/play/4022861107/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="RTL 4", RTL 4
+https://huhu.to/play/4193182769/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="DISCOVERY SCIENCE", DISCOVERY SCIENCE
+https://huhu.to/play/3127261334/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="FOX SPORTS 2", FOX SPORTS 2
+https://huhu.to/play/2674058579/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="NPO", NPO
+https://huhu.to/play/3428620639/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="DISCOVERY SCIENCE", DISCOVERY SCIENCE
+https://huhu.to/play/1106774151/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="SBS 6", SBS 6
+https://huhu.to/play/3205986201/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="NPO", NPO
+https://huhu.to/play/3461926467/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="ZIGGO SPORT VOETBAL", ZIGGO SPORT VOETBAL
+https://huhu.to/play/3586469911/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="192 TV", 192 TV
+https://huhu.to/play/2539137621/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="XITE", XITE
+https://huhu.to/play/2549224723/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="PEBBLE TV", PEBBLE TV
+https://huhu.to/play/3382499986/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="RTL 4", RTL 4
+https://huhu.to/play/4226462509/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="ESPN 4", ESPN 4
+https://huhu.to/play/2540436583/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="RTL 7", RTL 7
+https://huhu.to/play/3159017981/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="RTL 7", RTL 7
+https://huhu.to/play/3192823521/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="FOX SPORTS 4", FOX SPORTS 4
+https://huhu.to/play/270668019/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="FOX SPORTS", FOX SPORTS
+https://huhu.to/play/3636633475/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="VERONICA DISNEY XD", VERONICA DISNEY XD
+https://huhu.to/play/3607349185/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="NAT GEO", NAT GEO
+https://huhu.to/play/1348286826/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="DISNEY CHANNEL", DISNEY CHANNEL
+https://huhu.to/play/4053879/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="MTV", MTV
+https://huhu.to/play/834237423/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="ZIGGO SPORT VOETBAL", ZIGGO SPORT VOETBAL
+https://huhu.to/play/23236113/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="OUT", OUT
+https://huhu.to/play/3430280912/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="NAT GEO WILD", NAT GEO WILD
+https://huhu.to/play/2172927372/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="RTL 5", RTL 5
+https://huhu.to/play/3330972317/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="192 TV", 192 TV
+https://huhu.to/play/2608998715/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="24 KITCHEN", 24 KITCHEN
+https://huhu.to/play/1552571249/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="ZIGGO SPORT SELECT", ZIGGO SPORT SELECT
+https://huhu.to/play/739290895/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="NPO 2", NPO 2
+https://huhu.to/play/2314777747/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="NPO 1 EXTRA", NPO 1 EXTRA
+https://huhu.to/play/3002543848/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="FOX CHANNEL", FOX CHANNEL
+https://huhu.to/play/579287411/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="RTL Z", RTL Z
+https://huhu.to/play/3723000321/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="EUROSPORT", EUROSPORT
+https://huhu.to/play/74097556/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="24 KITCHEN", 24 KITCHEN
+https://huhu.to/play/622061122/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="ZIGGO SPORT", ZIGGO SPORT
+https://huhu.to/play/3749103743/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="FASHIONTV", FASHIONTV
+https://huhu.to/play/2801564951/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="RTL", RTL
+https://huhu.to/play/2323583211/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="NPO NIEUWS", NPO NIEUWS
+https://huhu.to/play/2880122002/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="ANIMAL PLANET", ANIMAL PLANET
+https://huhu.to/play/75666354/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="EUROSPORT 2", EUROSPORT 2
+https://huhu.to/play/3837426329/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="L1 TV LIMBURG", L1 TV LIMBURG
+https://huhu.to/play/3239175748/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="NPO POLITIEK", NPO POLITIEK
+https://huhu.to/play/528739047/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="SALTO BRASA MUSIC", SALTO BRASA MUSIC
+https://huhu.to/play/4110941162/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="ZIGGO SPORT EXTRA", ZIGGO SPORT EXTRA
+https://huhu.to/play/319163860/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="TV ORANJE", TV ORANJE
+https://huhu.to/play/2864186713/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="100", 100
+https://huhu.to/play/60276472/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="E", E
+https://huhu.to/play/486015393/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="SBS 9", SBS 9
+https://huhu.to/play/1061402452/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="ONS", ONS
+https://huhu.to/play/3431713867/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="RTL 5", RTL 5
+https://huhu.to/play/3297693057/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="XITE", XITE
+https://huhu.to/play/2418672135/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="LOVE NATURE", LOVE NATURE
+https://huhu.to/play/1356228150/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="EUROSPORT", EUROSPORT
+https://huhu.to/play/2736390217/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="RTL 8", RTL 8
+https://huhu.to/play/1041915436/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="ZIGGO SPORT RACING", ZIGGO SPORT RACING
+https://huhu.to/play/1777530589/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="CRIME", CRIME
+https://huhu.to/play/172174146/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="TV NOORD", TV NOORD
+https://huhu.to/play/2371823015/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="BABY TV", BABY TV
+https://huhu.to/play/3723054155/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="EXTREME SPORTS CHANNEL", EXTREME SPORTS CHANNEL
+https://huhu.to/play/3322172799/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="ANIMAL PLANET", ANIMAL PLANET
+https://huhu.to/play/3731631078/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="STINGRAY DJAZZ", STINGRAY DJAZZ
+https://huhu.to/play/2990700903/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="RTL ZWEE", RTL ZWEE
+https://huhu.to/play/648900923/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="AT 5", AT 5
+https://huhu.to/play/2629204497/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="BVN", BVN
+https://huhu.to/play/3668541006/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="MEER TV", MEER TV
+https://huhu.to/play/2129750376/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="VIAPLAY F1", VIAPLAY F1
+https://huhu.to/play/3687874505/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="DJAZZ TV", DJAZZ TV
+https://huhu.to/play/2897120181/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="BBC FIRST", BBC FIRST
+https://huhu.to/play/2288615636/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="RTL Z", RTL Z
+https://huhu.to/play/3756797213/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="NICK JR", NICK JR
+https://huhu.to/play/2470622316/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="RTL CRIME", RTL CRIME
+https://huhu.to/play/225014229/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="MEZZO", MEZZO
+https://huhu.to/play/439553705/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="BABY TV", BABY TV
+https://huhu.to/play/1865843041/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="DISCOVERY CHANNEL", DISCOVERY CHANNEL
+https://huhu.to/play/706021529/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="ZIGGO SPORT EXTRA 2", ZIGGO SPORT EXTRA 2
+https://huhu.to/play/4006989621/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="LOVE NATURE", LOVE NATURE
+https://huhu.to/play/4154901995/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="DISNEY XD", DISNEY XD
+https://huhu.to/play/203464866/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="MTV 24 MUSIC", MTV 24 MUSIC
+https://huhu.to/play/3006800428/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="FAMILY 7", FAMILY 7
+https://huhu.to/play/453029930/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="EX SPORT", EX SPORT
+https://huhu.to/play/330363772/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="VIAPLAY EVENT 10", VIAPLAY EVENT 10
+https://huhu.to/play/2038080316/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="AT 5", AT 5
+https://huhu.to/play/2607705349/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="FOX SPORTS 3", FOX SPORTS 3
+https://huhu.to/play/2718092515/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="FOX SPORTS", FOX SPORTS
+https://huhu.to/play/954079807/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="BBC FIRST", BBC FIRST
+https://huhu.to/play/2742031882/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="FAMILY 7", FAMILY 7
+https://huhu.to/play/3637574983/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="CARTOON NETWORK", CARTOON NETWORK
+https://huhu.to/play/2959444159/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="DANCE TELEVISION", DANCE TELEVISION
+https://huhu.to/play/194736395/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="NET 5", NET 5
+https://huhu.to/play/1751042276/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="ZIGGO SPORT RACING", ZIGGO SPORT RACING
+https://huhu.to/play/459281257/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="NPO 2", NPO 2
+https://huhu.to/play/2348606351/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="NPO EXTRA", NPO EXTRA
+https://huhu.to/play/508026046/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="RTL LOUNGE", RTL LOUNGE
+https://huhu.to/play/3526363556/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="NAT GEO WILD", NAT GEO WILD
+https://huhu.to/play/1637398576/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="NPO EXTRA 2", NPO EXTRA 2
+https://huhu.to/play/1508353646/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="CARTOON NETWORK", CARTOON NETWORK
+https://huhu.to/play/179283867/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="COMEDY CENTRAL EXTRA", COMEDY CENTRAL EXTRA
+https://huhu.to/play/1396002728/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="ESPN 4", ESPN 4
+https://huhu.to/play/2612133641/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="HISTORY", HISTORY
+https://huhu.to/play/634937112/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="MTV LIVE", MTV LIVE
+https://huhu.to/play/1624948125/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="EUROSPORT 2", EUROSPORT 2
+https://huhu.to/play/1137367364/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="ZIGGO SPORT DOCU", ZIGGO SPORT DOCU
+https://huhu.to/play/486755545/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="L1", L1
+https://huhu.to/play/1528285163/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="RTV UTRECHT", RTV UTRECHT
+https://huhu.to/play/31091519/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="LOE TV", LOE TV
+https://huhu.to/play/3172533701/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="TRAVELXP", TRAVELXP
+https://huhu.to/play/2154351987/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="SPIKE", SPIKE
+https://huhu.to/play/2657544137/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="ZIGGO SPORT DOCU", ZIGGO SPORT DOCU
+https://huhu.to/play/962804049/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="TV OOST", TV OOST
+https://huhu.to/play/2359432712/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="NPO NIEUWS", NPO NIEUWS
+https://huhu.to/play/3526529441/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="ONS TV", ONS TV
+https://huhu.to/play/4149973319/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="OMROEP ZEELAND TV", OMROEP ZEELAND TV
+https://huhu.to/play/2940703612/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="NET 5", NET 5
+https://huhu.to/play/1784324088/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="RAKUTEN ACTION", RAKUTEN ACTION
+https://huhu.to/play/895549735/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="OPEN ROTTERDAM", OPEN ROTTERDAM
+https://huhu.to/play/837394128/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="E", E
+https://huhu.to/play/3680791301/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="USTAD", USTAD
+https://huhu.to/play/4211423588/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="VIAPLAY EVENT", VIAPLAY EVENT
+https://huhu.to/play/2922568715/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="CRIME", CRIME
+https://huhu.to/play/719650592/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="DANCE TRIPPIN", DANCE TRIPPIN
+https://huhu.to/play/3282607272/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="RTL 8", RTL 8
+https://huhu.to/play/1008601392/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="ICONCERTS", ICONCERTS
+https://huhu.to/play/2200725940/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="RTV RIJNMOND", RTV RIJNMOND
+https://huhu.to/play/2572980356/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="SBS 9", SBS 9
+https://huhu.to/play/1028120648/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="TV ORANJE", TV ORANJE
+https://huhu.to/play/2174849927/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="RTL LOUNGE", RTL LOUNGE
+https://huhu.to/play/2880025751/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="VIAPLAY EVENT 8", VIAPLAY EVENT 8
+https://huhu.to/play/2736963194/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="ZIGGO SPORT GOLF", ZIGGO SPORT GOLF
+https://huhu.to/play/1643798837/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="IDEAAL TV", IDEAAL TV
+https://huhu.to/play/1302816819/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="SAMEN1 TV", SAMEN1 TV
+https://huhu.to/play/10016112/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="AAVISIE", AAVISIE
+https://huhu.to/play/1053553559/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="RTL CRIME", RTL CRIME
+https://huhu.to/play/644933387/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="SALTO", SALTO
+https://huhu.to/play/654918021/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="NPO 2 EXTRA", NPO 2 EXTRA
+https://huhu.to/play/722815209/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="COMEDY CENTRAL", COMEDY CENTRAL
+https://huhu.to/play/1269765291/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="DEN HAAG FM", DEN HAAG FM
+https://huhu.to/play/1268929440/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="VIAPLAY EVENT 9", VIAPLAY EVENT 9
+https://huhu.to/play/2655164362/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="RTL TELEKIDS", RTL TELEKIDS
+https://huhu.to/play/2438069127/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="TV 538", TV 538
+https://huhu.to/play/466082021/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="DISCOVERY WORLD", DISCOVERY WORLD
+https://huhu.to/play/226214567/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="DISCOVERY WORLD", DISCOVERY WORLD
+https://huhu.to/play/3081891203/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="OMROEP FLEVOLAND TV", OMROEP FLEVOLAND TV
+https://huhu.to/play/1273177850/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="QMUSIC", QMUSIC
+https://huhu.to/play/4157396273/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="CBS REALITY", CBS REALITY
+https://huhu.to/play/1019029636/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="MTV HITS", MTV HITS
+https://huhu.to/play/2234006819/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="RTL TELEKIDS", RTL TELEKIDS
+https://huhu.to/play/1900903995/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="SALTO MA LIVE", SALTO MA LIVE
+https://huhu.to/play/180554669/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="DUCK TV", DUCK TV
+https://huhu.to/play/2149796005/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="MTV", MTV
+https://huhu.to/play/3933634364/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="NICK MUSIC", NICK MUSIC
+https://huhu.to/play/1137374425/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="MTV 90S", MTV 90S
+https://huhu.to/play/1684435142/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="OMROEP FRYSLAN TV", OMROEP FRYSLAN TV
+https://huhu.to/play/2783925862/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="VIAPLAY EVENT 2", VIAPLAY EVENT 2
+https://huhu.to/play/3918702299/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="MTV LIVE", MTV LIVE
+https://huhu.to/play/2735403248/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="DUCK TV", DUCK TV
+https://huhu.to/play/855410063/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="STAR CHANNEL", STAR CHANNEL
+https://huhu.to/play/2367829148/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="WOS TV", WOS TV
+https://huhu.to/play/3632482166/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="NPO ZAPPELIN EXTRA", NPO ZAPPELIN EXTRA
+https://huhu.to/play/2982961277/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="VIAPLAY F1", VIAPLAY F1
+https://huhu.to/play/190889111/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="JIMJAM", JIMJAM
+https://huhu.to/play/2064986541/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="NPO ZAPPELIN", NPO ZAPPELIN
+https://huhu.to/play/656697449/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="OMROEP BRABANT TV", OMROEP BRABANT TV
+https://huhu.to/play/504574198/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="ZUIDWEST TV", ZUIDWEST TV
+https://huhu.to/play/3488575634/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="COMEDY CENTRAL", COMEDY CENTRAL
+https://huhu.to/play/1068119176/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="SLAM", SLAM
+https://huhu.to/play/83945467/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="INPLUS", INPLUS
+https://huhu.to/play/934977481/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="NPO RADIO", NPO RADIO
+https://huhu.to/play/2669654917/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="VIAPLAY EVENT 6", VIAPLAY EVENT 6
+https://huhu.to/play/470941723/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="HORSE", HORSE
+https://huhu.to/play/2063234794/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="RTV 7", RTV 7
+https://huhu.to/play/2111855969/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="INVESTIGATION DISCOVERY", INVESTIGATION DISCOVERY
+https://huhu.to/play/4256105617/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="NJAM", NJAM
+https://huhu.to/play/2021521631/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="OUT TV", OUT TV
+https://huhu.to/play/3755034524/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="RTV NOF", RTV NOF
+https://huhu.to/play/431031381/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="CARTOONITO", CARTOONITO
+https://huhu.to/play/2455610291/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="NICK JUNIOR", NICK JUNIOR
+https://huhu.to/play/1068616594/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="RTV SLINGELAND", RTV SLINGELAND
+https://huhu.to/play/2400591548/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="TV 538", TV 538
+https://huhu.to/play/387832715/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="OMROEP BRABANT RADIO", OMROEP BRABANT RADIO
+https://huhu.to/play/3640625031/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="OMROEP HULST TV", OMROEP HULST TV
+https://huhu.to/play/3576709928/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="RADIO 350", RADIO 350
+https://huhu.to/play/2566467401/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="STINGRAY LITE TV", STINGRAY LITE TV
+https://huhu.to/play/1909661643/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="DISCOVERY ID", DISCOVERY ID
+https://huhu.to/play/793835474/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="NICKELODEON", NICKELODEON
+https://huhu.to/play/2126702242/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="CARTOONITO", CARTOONITO
+https://huhu.to/play/3955498624/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="INFAST", INFAST
+https://huhu.to/play/2294348200/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="OMROEP TILBURG", OMROEP TILBURG
+https://huhu.to/play/2832493580/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="SLAM", SLAM
+https://huhu.to/play/4229163295/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="HISTORY CHANNEL", HISTORY CHANNEL
+https://huhu.to/play/2581510979/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="OMROEP FLEVOLAND", OMROEP FLEVOLAND
+https://huhu.to/play/1993709453/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="PEBBLE TV", PEBBLE TV
+https://huhu.to/play/3800386636/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="RAKUTEN STORIES", RAKUTEN STORIES
+https://huhu.to/play/3100186970/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="RTV ARNHEM", RTV ARNHEM
+https://huhu.to/play/3662572817/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="RTV DRENTHE", RTV DRENTHE
+https://huhu.to/play/160313327/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="RTV UTRECHT", RTV UTRECHT
+https://huhu.to/play/1965649934/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="NICKELODEON", NICKELODEON
+https://huhu.to/play/3652339071/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="NPO POLITIEK", NPO POLITIEK
+https://huhu.to/play/4288638811/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="ORTS", ORTS
+https://huhu.to/play/1814925347/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="RTV 7", RTV 7
+https://huhu.to/play/2145651325/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="RTV CONNECT TV", RTV CONNECT TV
+https://huhu.to/play/1844152054/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="VIAPLAY EVENT 4", VIAPLAY EVENT 4
+https://huhu.to/play/1725059963/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="OMROEP BRABANT", OMROEP BRABANT
+https://huhu.to/play/1951811712/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="RAKUTEN FAMILY", RAKUTEN FAMILY
+https://huhu.to/play/3471516132/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="RTV NOORD", RTV NOORD
+https://huhu.to/play/3504870445/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="RTV PARKSTAD", RTV PARKSTAD
+https://huhu.to/play/1291072245/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="INULTRA", INULTRA
+https://huhu.to/play/4018658498/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="RTV NOORD EXTRA", RTV NOORD EXTRA
+https://huhu.to/play/4065118462/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="STREEK TV", STREEK TV
+https://huhu.to/play/384330772/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="VIAPLAY EVENT 7", VIAPLAY EVENT 7
+https://huhu.to/play/561129899/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="NICK TOONS", NICK TOONS
+https://huhu.to/play/1934195856/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="RTV OOST", RTV OOST
+https://huhu.to/play/1033150245/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="TLC", TLC
+https://huhu.to/play/1605713445/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="ZIGGO SPORT GOLF", ZIGGO SPORT GOLF
+https://huhu.to/play/1167725757/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="JIN TV", JIN TV
+https://huhu.to/play/2658603102/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="NICKTOONS", NICKTOONS
+https://huhu.to/play/778544979/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="RTV DORDRECHT", RTV DORDRECHT
+https://huhu.to/play/2796238877/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="TLC", TLC
+https://huhu.to/play/2222600950/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="TV GELDERLAND", TV GELDERLAND
+https://huhu.to/play/1986630047/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="NAT GEO", NAT GEO
+https://huhu.to/play/3800233024/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="OMROEP FRYSLAN", OMROEP FRYSLAN
+https://huhu.to/play/3646404328/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="OMROEP GELDERLAND", OMROEP GELDERLAND
+https://huhu.to/play/2813172842/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="RAKUTEN COMEDY", RAKUTEN COMEDY
+https://huhu.to/play/3421755691/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="RTV PURMEREND", RTV PURMEREND
+https://huhu.to/play/2037855357/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="RTV DRENTHE", RTV DRENTHE
+https://huhu.to/play/2935917618/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="RTV MAASTRICHT", RTV MAASTRICHT
+https://huhu.to/play/1803785885/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="TV RIJNMOND", TV RIJNMOND
+https://huhu.to/play/3269277667/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="VIAPLAY EVENT 5", VIAPLAY EVENT 5
+https://huhu.to/play/1538423499/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="OMROEP WEST", OMROEP WEST
+https://huhu.to/play/2788860521/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="OMROEP ZEELAND", OMROEP ZEELAND
+https://huhu.to/play/2375492387/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="RAKUTEN DRAMA", RAKUTEN DRAMA
+https://huhu.to/play/3535631542/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="RTV MAASTRICHT", RTV MAASTRICHT
+https://huhu.to/play/528922302/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="OMROEP P", OMROEP P
+https://huhu.to/play/689718194/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="OMROEP WEST", OMROEP WEST
+https://huhu.to/play/21627316/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="OMROP FRYSL", OMROP FRYSL
+https://huhu.to/play/538490918/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="RTV NOORDOOST FRIESLAND", RTV NOORDOOST FRIESLAND
+https://huhu.to/play/1293649021/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="RTV PURMEREND", RTV PURMEREND
+https://huhu.to/play/2744749097/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="RTV UTRECHT", RTV UTRECHT
+https://huhu.to/play/2796210402/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="TV ELLEF", TV ELLEF
+https://huhu.to/play/3565078343/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTINF:-1 group-title="Netherlands" tvg-name="VIAPLAY EVENT 3", VIAPLAY EVENT 3
+https://huhu.to/play/3572666219/index.m3u8
