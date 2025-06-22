@@ -1,805 +1,805 @@
 #EXTM3U8 x-url-tvg=https://vav00.de/sources/epg/epg_de.xml,https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz,https://epg.pw/xmltv/epg_DE.xml
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="MAX SPORT", MAX SPORT
-https://huhu.to/play/1421125992/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTINF:-1 group-title="Bulgaria" tvg-name="NOVA TV", NOVA TV
-https://huhu.to/play/2261886020/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="DIEMA SPORT", DIEMA SPORT
-https://huhu.to/play/782948666/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="DIEMA SPORT 2", DIEMA SPORT 2
-https://huhu.to/play/2945858102/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="BNT 3", BNT 3
-https://huhu.to/play/4137989444/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="PLOVDIVSKA PRAVOSLAVNA TV", PLOVDIVSKA PRAVOSLAVNA TV
-https://huhu.to/play/2169709312/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
+https://vavoo.to/play/2261886020/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="BTV CINEMA", BTV CINEMA
+https://vavoo.to/play/1802488789/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="MAX SPORT 1", MAX SPORT 1
+https://vavoo.to/play/1421125992/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="BTV ACTION", BTV ACTION
+https://vavoo.to/play/2905091345/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="BTV", BTV
+https://vavoo.to/play/2650040518/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTINF:-1 group-title="Bulgaria" tvg-name="PLANETA", PLANETA
-https://huhu.to/play/2356277850/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="MAX SPORT 4", MAX SPORT 4
-https://huhu.to/play/1602513781/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="NOVA SPORT", NOVA SPORT
-https://huhu.to/play/2771280932/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="FEN TV", FEN TV
-https://huhu.to/play/566807500/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="WNESS TV", WNESS TV
-https://huhu.to/play/3772974425/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="DIEMA TV", DIEMA TV
-https://huhu.to/play/3938899839/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="MAX SPORT 3", MAX SPORT 3
-https://huhu.to/play/779418120/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="BTV ACTION", BTV ACTION
-https://huhu.to/play/2905091345/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="MAX SPORT 2", MAX SPORT 2
-https://huhu.to/play/3502546645/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="VTK", VTK
-https://huhu.to/play/3916212970/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="AXN", AXN
-https://huhu.to/play/4097263521/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="NAT GEO WILD", NAT GEO WILD
-https://huhu.to/play/3093560896/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="RING", RING
-https://huhu.to/play/927756604/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="BTV", BTV
-https://huhu.to/play/2650040518/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="BTV", BTV
-https://huhu.to/play/3800908036/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="KINONOVA", KINONOVA
-https://huhu.to/play/1972526918/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="BTV CINEMA", BTV CINEMA
-https://huhu.to/play/1802488789/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="DIEMA SPORT 2", DIEMA SPORT 2
-https://huhu.to/play/3591341829/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="DIEMA SPORT", DIEMA SPORT
-https://huhu.to/play/3984233559/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="KINO NOVA", KINO NOVA
-https://huhu.to/play/367205987/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="BTV ACTION", BTV ACTION
-https://huhu.to/play/536338491/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="CODE FASHION TV", CODE FASHION TV
-https://huhu.to/play/1461004363/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="DIEMA SPORT 3", DIEMA SPORT 3
-https://huhu.to/play/3949964981/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="BALKANIKA MUSIC TV", BALKANIKA MUSIC TV
-https://huhu.to/play/1063393777/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="NOVA TV", NOVA TV
-https://huhu.to/play/2164896592/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
+https://vavoo.to/play/2356277850/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="BNT 1", BNT 1
+https://vavoo.to/play/2355422756/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTINF:-1 group-title="Bulgaria" tvg-name="BNT 3", BNT 3
-https://huhu.to/play/3967660473/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
+https://vavoo.to/play/4137989444/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="DIEMA TV", DIEMA TV
+https://vavoo.to/play/3938899839/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTINF:-1 group-title="Bulgaria" tvg-name="MAX SPORT 4", MAX SPORT 4
-https://huhu.to/play/2622760472/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="BTV CINEMA", BTV CINEMA
-https://huhu.to/play/3652191999/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="HISTORY CHANNEL", HISTORY CHANNEL
-https://huhu.to/play/2231668112/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="VIASAT HISTORY", VIASAT HISTORY
-https://huhu.to/play/235695536/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="BNT", BNT
-https://huhu.to/play/2529026777/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="DISCOVERY CHANNEL", DISCOVERY CHANNEL
-https://huhu.to/play/1337595654/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
+https://vavoo.to/play/1602513781/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="BTV", BTV
+https://vavoo.to/play/3800908036/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="WNESS TV", WNESS TV
+https://vavoo.to/play/3772974425/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="PLOVDIVSKA PRAVOSLAVNA TV", PLOVDIVSKA PRAVOSLAVNA TV
+https://vavoo.to/play/2169709312/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="NOVA SPORT", NOVA SPORT
+https://vavoo.to/play/2771280932/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="DIEMA SPORT 2", DIEMA SPORT 2
+https://vavoo.to/play/3591341829/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTINF:-1 group-title="Bulgaria" tvg-name="BTV STORY", BTV STORY
-https://huhu.to/play/3679243852/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="MAX SPORT 3", MAX SPORT 3
-https://huhu.to/play/3986995045/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="7", 7
-https://huhu.to/play/1090435732/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="ACTION BOX", ACTION BOX
-https://huhu.to/play/4121223228/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="FOX CRIME", FOX CRIME
-https://huhu.to/play/1793487407/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="BNT", BNT
-https://huhu.to/play/2355422756/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="BTV COMEDY", BTV COMEDY
-https://huhu.to/play/3781507127/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="DISCOVERY WORLD", DISCOVERY WORLD
-https://huhu.to/play/1266114284/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
+https://vavoo.to/play/3679243852/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="CODE FASHION TV", CODE FASHION TV
+https://vavoo.to/play/1461004363/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="NOVA TV", NOVA TV
+https://vavoo.to/play/2164896592/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTINF:-1 group-title="Bulgaria" tvg-name="FEN TV", FEN TV
-https://huhu.to/play/4194813727/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="MAX SPORT", MAX SPORT
-https://huhu.to/play/2539971589/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="HBO 2", HBO 2
-https://huhu.to/play/1822214929/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
+https://vavoo.to/play/566807500/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="DIEMA SPORT", DIEMA SPORT
+https://vavoo.to/play/3984233559/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="VTK", VTK
+https://vavoo.to/play/3916212970/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="MAX SPORT 1", MAX SPORT 1
+https://vavoo.to/play/2539971589/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="MAX SPORT 3", MAX SPORT 3
+https://vavoo.to/play/3986995045/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTINF:-1 group-title="Bulgaria" tvg-name="FOX CRIME", FOX CRIME
-https://huhu.to/play/1715237185/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="FOX", FOX
-https://huhu.to/play/3236112686/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="INVESTIGATION DISCOVERY", INVESTIGATION DISCOVERY
-https://huhu.to/play/21081072/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="TIANKOV FOLK", TIANKOV FOLK
-https://huhu.to/play/904693821/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="JIM JAM", JIM JAM
-https://huhu.to/play/1710746124/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="DIEMA FAMILY", DIEMA FAMILY
-https://huhu.to/play/1032040630/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="HBO 3", HBO 3
-https://huhu.to/play/1375527585/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="DIEMA", DIEMA
-https://huhu.to/play/2041249158/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="BABY TV", BABY TV
-https://huhu.to/play/3429908435/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="MAGIC TV", MAGIC TV
-https://huhu.to/play/3599796967/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="CINEMAX 2", CINEMAX 2
-https://huhu.to/play/3988717339/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="BTV LADY", BTV LADY
-https://huhu.to/play/913203329/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="PLANETA TV", PLANETA TV
-https://huhu.to/play/1819053706/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="TRAVEL TV", TRAVEL TV
-https://huhu.to/play/91910041/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
+https://vavoo.to/play/1793487407/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTINF:-1 group-title="Bulgaria" tvg-name="BTV COMEDY", BTV COMEDY
-https://huhu.to/play/1404761373/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="EKIDS", EKIDS
-https://huhu.to/play/3598389734/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="VIASAT NATURE", VIASAT NATURE
-https://huhu.to/play/2542225813/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
+https://vavoo.to/play/1404761373/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="DIEMA", DIEMA
+https://vavoo.to/play/2041249158/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTINF:-1 group-title="Bulgaria" tvg-name="24 KITCHEN", 24 KITCHEN
-https://huhu.to/play/1540493006/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="CINEMAX", CINEMAX
-https://huhu.to/play/3533398255/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="NAT GEO", NAT GEO
-https://huhu.to/play/1176264166/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="AMC", AMC
-https://huhu.to/play/549796346/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="STAR CHANNEL", STAR CHANNEL
-https://huhu.to/play/3032872784/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="EPIC DRAMA", EPIC DRAMA
-https://huhu.to/play/3753516110/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="COMEDY BOX", COMEDY BOX
-https://huhu.to/play/630852751/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="HBO", HBO
-https://huhu.to/play/2180719613/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="BULGARIA ON AIR", BULGARIA ON AIR
-https://huhu.to/play/2977990447/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="ANIMAL PLANET", ANIMAL PLANET
-https://huhu.to/play/4025501657/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="FOLKLOR", FOLKLOR
-https://huhu.to/play/1130624059/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="HBO", HBO
-https://huhu.to/play/4269935167/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="NICK JR", NICK JR
-https://huhu.to/play/937172426/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="NOVA NEWS", NOVA NEWS
-https://huhu.to/play/2550224292/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="BG MUSIC", BG MUSIC
-https://huhu.to/play/1383754365/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="NICKELODEON", NICKELODEON
-https://huhu.to/play/4262594289/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="BNT 2", BNT 2
-https://huhu.to/play/3418660084/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="NICKELODEON", NICKELODEON
-https://huhu.to/play/1036143516/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="DSTV", DSTV
-https://huhu.to/play/2986022367/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="DIEMA FAMILY", DIEMA FAMILY
-https://huhu.to/play/379201128/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="ALFA TV", ALFA TV
-https://huhu.to/play/1426505444/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="CINEMAX 2", CINEMAX 2
-https://huhu.to/play/3781491829/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="NAT GEO", NAT GEO
-https://huhu.to/play/1103383282/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="CINEMAX", CINEMAX
-https://huhu.to/play/3577968635/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="EVROKOM", EVROKOM
-https://huhu.to/play/3328545244/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="BALKANIKA", BALKANIKA
-https://huhu.to/play/1588054328/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="TV 1000", TV 1000
-https://huhu.to/play/3692292745/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="24 KITCHEN", 24 KITCHEN
-https://huhu.to/play/3909993444/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="AUTO MOTOR SPORT", AUTO MOTOR SPORT
-https://huhu.to/play/1708359465/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="STAR CRIME", STAR CRIME
-https://huhu.to/play/1242163609/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="FOX", FOX
-https://huhu.to/play/3214541036/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="MAX SPORT 2", MAX SPORT 2
-https://huhu.to/play/320132024/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="VIASAT HISTORY", VIASAT HISTORY
-https://huhu.to/play/2843528813/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="CINE BOX", CINE BOX
-https://huhu.to/play/153846227/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="BG MUSIC CHANNEL", BG MUSIC CHANNEL
-https://huhu.to/play/1918230108/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="BNT 4", BNT 4
-https://huhu.to/play/1149528404/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="PLANETA FOLK", PLANETA FOLK
-https://huhu.to/play/1490544367/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="NAT GEO WILD", NAT GEO WILD
-https://huhu.to/play/2474272926/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="TV EVROPA", TV EVROPA
-https://huhu.to/play/2473349072/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="CINEMA PLUS", CINEMA PLUS
-https://huhu.to/play/934472657/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="STAR LIFE", STAR LIFE
-https://huhu.to/play/4284215108/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="EURONEWS", EURONEWS
-https://huhu.to/play/1926603815/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="HISTORY", HISTORY
-https://huhu.to/play/876686464/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="ANIMAL PLANET", ANIMAL PLANET
-https://huhu.to/play/2523527914/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="HBO 2", HBO 2
-https://huhu.to/play/1984286700/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="NICK JR", NICK JR
-https://huhu.to/play/805571294/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="BOX TV", BOX TV
-https://huhu.to/play/3692483927/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="NOVA NEWS", NOVA NEWS
-https://huhu.to/play/2497402570/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="RETRO MUSIC", RETRO MUSIC
-https://huhu.to/play/283245961/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="FEN FOLK", FEN FOLK
-https://huhu.to/play/1541535727/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="ROMA TV", ROMA TV
-https://huhu.to/play/212348644/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="CARTOON NETWORK", CARTOON NETWORK
-https://huhu.to/play/376803656/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="BBC EARTH", BBC EARTH
-https://huhu.to/play/2369997090/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="EUROFOLK TV", EUROFOLK TV
-https://huhu.to/play/3079780913/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="TV 1000", TV 1000
-https://huhu.to/play/3687579037/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="WILD TV", WILD TV
-https://huhu.to/play/681770962/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="AUTO MOTOR SPORT", AUTO MOTOR SPORT
-https://huhu.to/play/3208497021/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="CITY TV", CITY TV
-https://huhu.to/play/3324742664/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="COMEDY PLUS", COMEDY PLUS
-https://huhu.to/play/1032729392/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="AMC", AMC
-https://huhu.to/play/1606160440/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="FILMBOX EXTRA", FILMBOX EXTRA
-https://huhu.to/play/3284828278/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="THE VOICE", THE VOICE
-https://huhu.to/play/2558410791/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="HIT MIX", HIT MIX
-https://huhu.to/play/3151238370/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="AXN BLACK", AXN BLACK
-https://huhu.to/play/3788101792/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="ALJAZEERA ENGLISH", ALJAZEERA ENGLISH
-https://huhu.to/play/2800458330/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="FILM PLUS", FILM PLUS
-https://huhu.to/play/3392903209/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="DIZI CHANNEL", DIZI CHANNEL
-https://huhu.to/play/1832108544/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="EUROSPORT", EUROSPORT
-https://huhu.to/play/1198132906/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="MTV 00S", MTV 00S
-https://huhu.to/play/3764864653/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="EVROKOM", EVROKOM
-https://huhu.to/play/3250423496/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="BOOMERANG", BOOMERANG
-https://huhu.to/play/3119534972/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="BULGARIA 24", BULGARIA 24
-https://huhu.to/play/3134106340/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="FOX LIFE", FOX LIFE
-https://huhu.to/play/2135288369/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
+https://vavoo.to/play/1540493006/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTINF:-1 group-title="Bulgaria" tvg-name="MAGIC TV", MAGIC TV
-https://huhu.to/play/3566525947/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="BABY TV", BABY TV
-https://huhu.to/play/3416795335/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="DSTV", DSTV
-https://huhu.to/play/3694629916/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="JIMJAM", JIMJAM
-https://huhu.to/play/3815634294/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="CARTOON NETWORK", CARTOON NETWORK
-https://huhu.to/play/4134081780/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="WORLD FIGHT CHANNEL", WORLD FIGHT CHANNEL
-https://huhu.to/play/1799700824/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="EUROSPORT 2", EUROSPORT 2
-https://huhu.to/play/13268090/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="TLC", TLC
-https://huhu.to/play/2701553908/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="BNT 2", BNT 2
-https://huhu.to/play/3508377609/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="FOLKLOR TV", FOLKLOR TV
-https://huhu.to/play/2157640092/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="TV", TV
-https://huhu.to/play/618262489/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="MTV", MTV
-https://huhu.to/play/1807489071/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="RING", RING
-https://huhu.to/play/1518399743/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="DUCK TV", DUCK TV
-https://huhu.to/play/593884695/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="TIANKOV ORIENT FOLK", TIANKOV ORIENT FOLK
-https://huhu.to/play/1966113455/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="CBS REALITY", CBS REALITY
-https://huhu.to/play/2143126970/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="VIASAT NATURE", VIASAT NATURE
-https://huhu.to/play/3995006118/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="HOBBY LOV", HOBBY LOV
-https://huhu.to/play/3865054049/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="VIASAT EXPLORER", VIASAT EXPLORER
-https://huhu.to/play/1600902519/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="DA VINCI LEARNING", DA VINCI LEARNING
-https://huhu.to/play/3350268377/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
+https://vavoo.to/play/3599796967/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="HBO", HBO
+https://vavoo.to/play/2180719613/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="BTV COMEDY", BTV COMEDY
+https://vavoo.to/play/3781507127/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="FOX", FOX
+https://vavoo.to/play/3214541036/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTINF:-1 group-title="Bulgaria" tvg-name="HBO 3", HBO 3
-https://huhu.to/play/1260775004/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="ICONCERTS", ICONCERTS
-https://huhu.to/play/3564883209/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="FILM PLUS", FILM PLUS
-https://huhu.to/play/3336674119/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="SPORTAL", SPORTAL
-https://huhu.to/play/981381135/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="BULGARIA 24", BULGARIA 24
-https://huhu.to/play/2032068489/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="FIGHTBOX", FIGHTBOX
-https://huhu.to/play/3066884648/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="MOVIE STAR", MOVIE STAR
-https://huhu.to/play/3471251446/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="CITY TV", CITY TV
-https://huhu.to/play/3253967644/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="DISCOVERY SCIENCE", DISCOVERY SCIENCE
-https://huhu.to/play/609687320/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="ID EXTRA", ID EXTRA
-https://huhu.to/play/1285652493/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="DESTINATIONS", DESTINATIONS
-https://huhu.to/play/508166537/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="HGTV", HGTV
-https://huhu.to/play/1975892045/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="BLOOMBERG", BLOOMBERG
-https://huhu.to/play/2376279153/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="TV999", TV999
-https://huhu.to/play/36225782/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="BOX TV", BOX TV
-https://huhu.to/play/131717508/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="AGRO TV", AGRO TV
-https://huhu.to/play/1318605640/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="DISCOVERY SCIENCE", DISCOVERY SCIENCE
-https://huhu.to/play/1347565371/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="LIGHT CHANNEL", LIGHT CHANNEL
-https://huhu.to/play/289340232/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="DUCK TV", DUCK TV
-https://huhu.to/play/616423683/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
+https://vavoo.to/play/1375527585/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="FOOD NETWORK", FOOD NETWORK
+https://vavoo.to/play/3692629984/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="STAR CRIME", STAR CRIME
+https://vavoo.to/play/1242163609/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="EUROFOLK TV", EUROFOLK TV
+https://vavoo.to/play/3079780913/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="MAX SPORT 3", MAX SPORT 3
+https://vavoo.to/play/779418120/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="FEN TV", FEN TV
+https://vavoo.to/play/4194813727/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="MAX SPORT 2", MAX SPORT 2
+https://vavoo.to/play/3502546645/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="BNT 1", BNT 1
+https://vavoo.to/play/2529026777/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="DIEMA SPORT", DIEMA SPORT
+https://vavoo.to/play/782948666/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="MAX SPORT 4", MAX SPORT 4
+https://vavoo.to/play/2622760472/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="BNT 3", BNT 3
+https://vavoo.to/play/3967660473/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTINF:-1 group-title="Bulgaria" tvg-name="TIANKOV FOLK", TIANKOV FOLK
-https://huhu.to/play/519380707/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="KANAL 0", KANAL 0
-https://huhu.to/play/880817015/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="MOVIE STAR", MOVIE STAR
-https://huhu.to/play/2084100828/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="BSTV", BSTV
-https://huhu.to/play/442015131/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="RODINA", RODINA
-https://huhu.to/play/1707089745/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="TV", TV
-https://huhu.to/play/1226141210/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="SKAT TV", SKAT TV
-https://huhu.to/play/293243409/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="TLC", TLC
-https://huhu.to/play/3732887862/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="FOOD NETWORK", FOOD NETWORK
-https://huhu.to/play/3692629984/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="TVN BULGARIA", TVN BULGARIA
-https://huhu.to/play/1666254526/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
+https://vavoo.to/play/904693821/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="KINONOVA", KINONOVA
+https://vavoo.to/play/1972526918/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="DIEMA SPORT 2", DIEMA SPORT 2
+https://vavoo.to/play/2945858102/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="VIASAT HISTORY", VIASAT HISTORY
+https://vavoo.to/play/235695536/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="KINO NOVA", KINO NOVA
+https://vavoo.to/play/367205987/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="DIEMA FAMILY", DIEMA FAMILY
+https://vavoo.to/play/379201128/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="CINEMAX", CINEMAX
+https://vavoo.to/play/3577968635/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="7", 7
+https://vavoo.to/play/1090435732/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="HISTORY CHANNEL", HISTORY CHANNEL
+https://vavoo.to/play/2231668112/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="HBO 2", HBO 2
+https://vavoo.to/play/1822214929/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="BALKANIKA MUSIC TV", BALKANIKA MUSIC TV
+https://vavoo.to/play/1063393777/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="PLANETA TV", PLANETA TV
+https://vavoo.to/play/1819053706/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="CINEMAX", CINEMAX
+https://vavoo.to/play/3533398255/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="ACTION BOX", ACTION BOX
+https://vavoo.to/play/4121223228/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="BTV ACTION", BTV ACTION
+https://vavoo.to/play/536338491/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="FOX CRIME", FOX CRIME
+https://vavoo.to/play/1715237185/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="DISCOVERY CHANNEL", DISCOVERY CHANNEL
+https://vavoo.to/play/1337595654/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="BTV CINEMA", BTV CINEMA
+https://vavoo.to/play/3652191999/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="JIM JAM", JIM JAM
+https://vavoo.to/play/1710746124/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="AXN", AXN
+https://vavoo.to/play/4097263521/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="VIASAT NATURE", VIASAT NATURE
+https://vavoo.to/play/2542225813/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="PLANETA FOLK", PLANETA FOLK
+https://vavoo.to/play/1490544367/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="EKIDS", EKIDS
+https://vavoo.to/play/3598389734/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="HBO", HBO
+https://vavoo.to/play/4269935167/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="NAT GEO", NAT GEO
+https://vavoo.to/play/1103383282/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="DSTV", DSTV
+https://vavoo.to/play/3694629916/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="NOVA NEWS", NOVA NEWS
+https://vavoo.to/play/2497402570/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="NAT GEO WILD", NAT GEO WILD
+https://vavoo.to/play/2474272926/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="NAT GEO", NAT GEO
+https://vavoo.to/play/1176264166/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="HBO 2", HBO 2
+https://vavoo.to/play/1984286700/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="DIEMA FAMILY", DIEMA FAMILY
+https://vavoo.to/play/1032040630/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="EURONEWS", EURONEWS
+https://vavoo.to/play/1926603815/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="RETRO MUSIC", RETRO MUSIC
+https://vavoo.to/play/283245961/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="INVESTIGATION DISCOVERY", INVESTIGATION DISCOVERY
+https://vavoo.to/play/21081072/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="BG MUSIC", BG MUSIC
+https://vavoo.to/play/1383754365/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="EVROKOM", EVROKOM
+https://vavoo.to/play/3328545244/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="FILM PLUS", FILM PLUS
+https://vavoo.to/play/3392903209/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTINF:-1 group-title="Bulgaria" tvg-name="BNT 4", BNT 4
-https://huhu.to/play/1583181225/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="BLOOMBERG TV", BLOOMBERG TV
-https://huhu.to/play/2114825503/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="MOTORVISION", MOTORVISION
-https://huhu.to/play/1804212747/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="E KIDS", E KIDS
-https://huhu.to/play/1106460317/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="TV EVROPA", TV EVROPA
-https://huhu.to/play/2679524542/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="TV PLUS", TV PLUS
-https://huhu.to/play/1793684627/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="SKAT", SKAT
-https://huhu.to/play/3127852812/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="FOOD NETWORK", FOOD NETWORK
-https://huhu.to/play/4144011582/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="VTV", VTV
-https://huhu.to/play/241553435/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
+https://vavoo.to/play/1149528404/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="BABY TV", BABY TV
+https://vavoo.to/play/3429908435/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="NAT GEO WILD", NAT GEO WILD
+https://vavoo.to/play/3093560896/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="CINEMAX 2", CINEMAX 2
+https://vavoo.to/play/3781491829/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="BTV LADY", BTV LADY
+https://vavoo.to/play/913203329/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="TLC", TLC
+https://vavoo.to/play/3732887862/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="EUROSPORT 2", EUROSPORT 2
+https://vavoo.to/play/13268090/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="BALKANIKA", BALKANIKA
+https://vavoo.to/play/1588054328/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="EUROSPORT 1", EUROSPORT 1
+https://vavoo.to/play/1198132906/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTINF:-1 group-title="Bulgaria" tvg-name="THE VOICE TV", THE VOICE TV
-https://huhu.to/play/4023386050/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
-#EXTINF:-1 group-title="Bulgaria" tvg-name="TRAVEL CHANNEL", TRAVEL CHANNEL
-https://huhu.to/play/2035738277/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
+https://vavoo.to/play/4023386050/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="CINEMAX 2", CINEMAX 2
+https://vavoo.to/play/3988717339/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="NOVA NEWS", NOVA NEWS
+https://vavoo.to/play/2550224292/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="MAX SPORT 2", MAX SPORT 2
+https://vavoo.to/play/320132024/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="BNT 4", BNT 4
+https://vavoo.to/play/1583181225/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="HISTORY", HISTORY
+https://vavoo.to/play/876686464/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="TV 1000", TV 1000
+https://vavoo.to/play/3687579037/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="BG MUSIC CHANNEL", BG MUSIC CHANNEL
+https://vavoo.to/play/1918230108/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="BULGARIA ON AIR", BULGARIA ON AIR
+https://vavoo.to/play/2977990447/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="AGRO TV", AGRO TV
+https://vavoo.to/play/1318605640/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="FOLKLOR", FOLKLOR
+https://vavoo.to/play/1130624059/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="DIEMA SPORT 3", DIEMA SPORT 3
+https://vavoo.to/play/3949964981/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="AUTO MOTOR SPORT", AUTO MOTOR SPORT
+https://vavoo.to/play/3208497021/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="NICKELODEON", NICKELODEON
+https://vavoo.to/play/1036143516/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="TV EVROPA", TV EVROPA
+https://vavoo.to/play/2473349072/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="NICKELODEON", NICKELODEON
+https://vavoo.to/play/4262594289/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="BABY TV", BABY TV
+https://vavoo.to/play/3416795335/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="FOX", FOX
+https://vavoo.to/play/3236112686/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="NICK JR", NICK JR
+https://vavoo.to/play/937172426/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="MAGIC TV", MAGIC TV
+https://vavoo.to/play/3566525947/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="ALJAZEERA ENGLISH", ALJAZEERA ENGLISH
+https://vavoo.to/play/2800458330/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="TRAVEL TV", TRAVEL TV
+https://vavoo.to/play/91910041/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="CINE BOX", CINE BOX
+https://vavoo.to/play/153846227/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="HIT MIX", HIT MIX
+https://vavoo.to/play/3151238370/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="TV 1000", TV 1000
+https://vavoo.to/play/3692292745/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="COMEDY BOX", COMEDY BOX
+https://vavoo.to/play/630852751/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="AMC", AMC
+https://vavoo.to/play/1606160440/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="ROMA TV", ROMA TV
+https://vavoo.to/play/212348644/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="BOX TV", BOX TV
+https://vavoo.to/play/3692483927/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="BBC EARTH", BBC EARTH
+https://vavoo.to/play/2369997090/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="DIZI CHANNEL", DIZI CHANNEL
+https://vavoo.to/play/1832108544/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="AMC", AMC
+https://vavoo.to/play/549796346/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="FEN FOLK", FEN FOLK
+https://vavoo.to/play/1541535727/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="COMEDY PLUS", COMEDY PLUS
+https://vavoo.to/play/1032729392/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="BNT 2", BNT 2
+https://vavoo.to/play/3418660084/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTINF:-1 group-title="Bulgaria" tvg-name="V2BEAT TV", V2BEAT TV
-https://huhu.to/play/3938292130/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://huhu.to/
+https://vavoo.to/play/3938292130/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="ANIMAL PLANET", ANIMAL PLANET
+https://vavoo.to/play/2523527914/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="DSTV", DSTV
+https://vavoo.to/play/2986022367/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="24 KITCHEN", 24 KITCHEN
+https://vavoo.to/play/3909993444/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="AXN BLACK", AXN BLACK
+https://vavoo.to/play/3788101792/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="AUTO MOTOR SPORT", AUTO MOTOR SPORT
+https://vavoo.to/play/1708359465/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="CITY TV", CITY TV
+https://vavoo.to/play/3324742664/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="TV 1", TV 1
+https://vavoo.to/play/618262489/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="CARTOON NETWORK", CARTOON NETWORK
+https://vavoo.to/play/376803656/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="CINEMA PLUS", CINEMA PLUS
+https://vavoo.to/play/934472657/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="EPIC DRAMA", EPIC DRAMA
+https://vavoo.to/play/3753516110/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="DISCOVERY WORLD", DISCOVERY WORLD
+https://vavoo.to/play/1266114284/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="NICK JR", NICK JR
+https://vavoo.to/play/805571294/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="EVROKOM", EVROKOM
+https://vavoo.to/play/3250423496/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="BLOOMBERG", BLOOMBERG
+https://vavoo.to/play/2376279153/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="HGTV", HGTV
+https://vavoo.to/play/1975892045/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="FILMBOX EXTRA", FILMBOX EXTRA
+https://vavoo.to/play/3284828278/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="BULGARIA 24", BULGARIA 24
+https://vavoo.to/play/2032068489/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="TVN BULGARIA", TVN BULGARIA
+https://vavoo.to/play/1666254526/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="MTV", MTV
+https://vavoo.to/play/1807489071/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="TV PLUS", TV PLUS
+https://vavoo.to/play/1793684627/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="WORLD FIGHT CHANNEL", WORLD FIGHT CHANNEL
+https://vavoo.to/play/1799700824/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="MOVIE STAR", MOVIE STAR
+https://vavoo.to/play/3471251446/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="MTV 00S", MTV 00S
+https://vavoo.to/play/3764864653/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="THE VOICE", THE VOICE
+https://vavoo.to/play/2558410791/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="MOVIE STAR", MOVIE STAR
+https://vavoo.to/play/2084100828/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="VIASAT NATURE", VIASAT NATURE
+https://vavoo.to/play/3995006118/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="TLC", TLC
+https://vavoo.to/play/2701553908/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="TV999", TV999
+https://vavoo.to/play/36225782/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="VIASAT HISTORY", VIASAT HISTORY
+https://vavoo.to/play/2843528813/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="WILD TV", WILD TV
+https://vavoo.to/play/681770962/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="BNT 2", BNT 2
+https://vavoo.to/play/3508377609/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="CARTOON NETWORK", CARTOON NETWORK
+https://vavoo.to/play/4134081780/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="HBO 3", HBO 3
+https://vavoo.to/play/1260775004/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="FIGHTBOX", FIGHTBOX
+https://vavoo.to/play/3066884648/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="FOX LIFE", FOX LIFE
+https://vavoo.to/play/2135288369/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="STAR CHANNEL", STAR CHANNEL
+https://vavoo.to/play/3032872784/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="TV 1", TV 1
+https://vavoo.to/play/1226141210/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="FOLKLOR TV", FOLKLOR TV
+https://vavoo.to/play/2157640092/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="BULGARIA 24", BULGARIA 24
+https://vavoo.to/play/3134106340/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="ALFA TV", ALFA TV
+https://vavoo.to/play/1426505444/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="ANIMAL PLANET", ANIMAL PLANET
+https://vavoo.to/play/4025501657/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="CBS REALITY", CBS REALITY
+https://vavoo.to/play/2143126970/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="TIANKOV ORIENT FOLK", TIANKOV ORIENT FOLK
+https://vavoo.to/play/1966113455/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="LIGHT CHANNEL", LIGHT CHANNEL
+https://vavoo.to/play/289340232/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTINF:-1 group-title="Bulgaria" tvg-name="WORLD FASHION CHANNEL", WORLD FASHION CHANNEL
-https://huhu.to/play/1386348539/index.m3u8
+https://vavoo.to/play/1386348539/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="BOOMERANG", BOOMERANG
+https://vavoo.to/play/3119534972/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="DUCK TV", DUCK TV
+https://vavoo.to/play/593884695/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="RING", RING
+https://vavoo.to/play/1518399743/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="STAR LIFE", STAR LIFE
+https://vavoo.to/play/4284215108/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="BOX TV", BOX TV
+https://vavoo.to/play/131717508/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="FILM PLUS", FILM PLUS
+https://vavoo.to/play/3336674119/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="JIMJAM", JIMJAM
+https://vavoo.to/play/3815634294/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="BSTV", BSTV
+https://vavoo.to/play/442015131/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="ICONCERTS", ICONCERTS
+https://vavoo.to/play/3564883209/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="VTV", VTV
+https://vavoo.to/play/241553435/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="MOTORVISION", MOTORVISION
+https://vavoo.to/play/1804212747/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="RING", RING
+https://vavoo.to/play/927756604/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="BLOOMBERG TV", BLOOMBERG TV
+https://vavoo.to/play/2114825503/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="HOBBY LOV", HOBBY LOV
+https://vavoo.to/play/3865054049/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="KANAL 0", KANAL 0
+https://vavoo.to/play/880817015/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="DISCOVERY SCIENCE", DISCOVERY SCIENCE
+https://vavoo.to/play/609687320/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="FOOD NETWORK", FOOD NETWORK
+https://vavoo.to/play/4144011582/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="SKAT TV", SKAT TV
+https://vavoo.to/play/293243409/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="E KIDS", E KIDS
+https://vavoo.to/play/1106460317/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="SPORTAL", SPORTAL
+https://vavoo.to/play/981381135/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="CITY TV", CITY TV
+https://vavoo.to/play/3253967644/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="SKAT", SKAT
+https://vavoo.to/play/3127852812/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="ID EXTRA", ID EXTRA
+https://vavoo.to/play/1285652493/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="DISCOVERY SCIENCE", DISCOVERY SCIENCE
+https://vavoo.to/play/1347565371/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="DESTINATIONS", DESTINATIONS
+https://vavoo.to/play/508166537/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="RODINA", RODINA
+https://vavoo.to/play/1707089745/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="TV EVROPA", TV EVROPA
+https://vavoo.to/play/2679524542/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="VIASAT EXPLORER", VIASAT EXPLORER
+https://vavoo.to/play/1600902519/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="DA VINCI LEARNING", DA VINCI LEARNING
+https://vavoo.to/play/3350268377/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="TRAVEL CHANNEL", TRAVEL CHANNEL
+https://vavoo.to/play/2035738277/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="TIANKOV FOLK", TIANKOV FOLK
+https://vavoo.to/play/519380707/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTINF:-1 group-title="Bulgaria" tvg-name="DUCK TV", DUCK TV
+https://vavoo.to/play/616423683/index.m3u8
