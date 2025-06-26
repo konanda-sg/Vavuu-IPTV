@@ -1,2 +1,2 @@
-# Vavoo-IPTV
-VAVOO-IPTV-Playlist + logo + banner file for OTT-Navigator
+### Vavoo-IPTV
+Created VAVOO-IPTV-Playlists + logo + banner file for OTT-Navigator
