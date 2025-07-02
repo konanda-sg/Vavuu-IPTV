@@ -9,16 +9,20 @@ https://kool.to/play/2594145557/index.m3u8
 https://kool.to/play/3854738303/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="DISCOVERY CHANNEL", DISCOVERY CHANNEL
-https://kool.to/play/760575271/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="SKY ACTION", SKY ACTION
 https://kool.to/play/173341106/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="SKY ACTION HD", SKY ACTION HD
 https://kool.to/play/2473434130/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="DISCOVERY CHANNEL", DISCOVERY CHANNEL
+https://kool.to/play/760575271/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="PROSIEBEN", PROSIEBEN
+https://kool.to/play/3109905289/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="SKY BOX ABENTEUER HD", SKY BOX ABENTEUER HD
@@ -29,96 +33,52 @@ https://kool.to/play/2766619048/index.m3u8
 https://kool.to/play/2866655811/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="RTL ZWEI HD", RTL ZWEI HD
-https://kool.to/play/1758367531/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="SKY SPORT NEWS HD", SKY SPORT NEWS HD
 https://kool.to/play/2534839650/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="PROSIEBEN", PROSIEBEN
-https://kool.to/play/3109905289/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="RTL HD", RTL HD
-https://kool.to/play/2728959195/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="13TH STREET", 13TH STREET
-https://kool.to/play/247062665/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-name="RTL ZWEI HD", RTL ZWEI HD
+https://kool.to/play/1758367531/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="SKY BOX ACTION HD", SKY BOX ACTION HD
 https://kool.to/play/3949554214/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="WARNER COMEDY", WARNER COMEDY
-https://kool.to/play/3862199120/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="RTL", RTL
 https://kool.to/play/3755683281/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="13TH STREET HD", 13TH STREET HD
-https://kool.to/play/1936179383/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="SKY ACTION HD", SKY ACTION HD
-https://kool.to/play/1074950765/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="CRIME", CRIME
-https://kool.to/play/1346022487/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="RTL", RTL
 https://kool.to/play/2732807498/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="RTL ZWEI HD", RTL ZWEI HD
-https://kool.to/play/160203873/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-name="13TH STREET", 13TH STREET
+https://kool.to/play/247062665/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="WARNER COMEDY", WARNER COMEDY
+https://kool.to/play/3862199120/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="RTL HD", RTL HD
+https://kool.to/play/2728959195/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="13TH STREET HD", 13TH STREET HD
+https://kool.to/play/1936179383/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="SKY CINEMA ACTION", SKY CINEMA ACTION
 https://kool.to/play/1617648799/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="DMAX", DMAX
-https://kool.to/play/635686224/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-name="CRIME", CRIME
+https://kool.to/play/1346022487/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="3 SAT", 3 SAT
-https://kool.to/play/2407690205/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="ZDF HD", ZDF HD
-https://kool.to/play/2866292554/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="13TH STREET", 13TH STREET
-https://kool.to/play/3160812963/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="AMAZON PRIME HD", AMAZON PRIME HD
-https://kool.to/play/3648815838/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="SKY CRIME", SKY CRIME
-https://kool.to/play/4064931426/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="ZDF", ZDF
-https://kool.to/play/3630825751/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="SYFY HD", SYFY HD
-https://kool.to/play/1680063305/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="SYFY HD", SYFY HD
-https://kool.to/play/3160192054/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-name="RTL ZWEI HD", RTL ZWEI HD
+https://kool.to/play/160203873/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="DMAX", DMAX
@@ -129,20 +89,64 @@ https://kool.to/play/2498778663/index.m3u8
 https://kool.to/play/2269735121/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="DMAX", DMAX
+https://kool.to/play/635686224/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="WARNER TV COMEDY", WARNER TV COMEDY
 https://kool.to/play/3673853973/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="ZDF HD", ZDF HD
+https://kool.to/play/2866292554/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="SKY ACTION HD", SKY ACTION HD
+https://kool.to/play/1074950765/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="SYFY HD", SYFY HD
+https://kool.to/play/1680063305/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="SYFY HD", SYFY HD
+https://kool.to/play/3160192054/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="HISTORY", HISTORY
+https://kool.to/play/4106953987/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="3 SAT", 3 SAT
+https://kool.to/play/2407690205/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="SKY CINEMA CLASSICS HD", SKY CINEMA CLASSICS HD
 https://kool.to/play/185991845/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="13TH STREET", 13TH STREET
+https://kool.to/play/3160812963/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="SAT.1", SAT.1
 https://kool.to/play/2558350352/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="SKY CINEMA ACTION", SKY CINEMA ACTION
+https://kool.to/play/3129337035/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="CRIME", CRIME
+https://kool.to/play/4240478721/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="DMAX", DMAX
 https://kool.to/play/1520100498/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="SKY CRIME", SKY CRIME
+https://kool.to/play/4064931426/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="DISCOVERY CHANNEL HD", DISCOVERY CHANNEL HD
@@ -153,40 +157,16 @@ https://kool.to/play/3099080474/index.m3u8
 https://kool.to/play/3046168786/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="SKY", SKY
-https://kool.to/play/94808283/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="HISTORY", HISTORY
-https://kool.to/play/4106953987/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="SKY CINEMA ACTION", SKY CINEMA ACTION
-https://kool.to/play/3129337035/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="KABEL EINS DOKU", KABEL EINS DOKU
-https://kool.to/play/2372195442/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="MAX KINO 2", MAX KINO 2
-https://kool.to/play/2956972870/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="CRIME", CRIME
-https://kool.to/play/4240478721/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="KABEL EINS", KABEL EINS
-https://kool.to/play/3390031045/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="ZDF HD", ZDF HD
 https://kool.to/play/2357166742/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="RTL ZWEI", RTL ZWEI
-https://kool.to/play/2877582637/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-name="ZDF", ZDF
+https://kool.to/play/3630825751/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="SKY", SKY
+https://kool.to/play/94808283/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="ARD DAS ERSTE", ARD DAS ERSTE
@@ -197,40 +177,28 @@ https://kool.to/play/550012320/index.m3u8
 https://kool.to/play/1008785305/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="SKY SPORT TENNIS", SKY SPORT TENNIS
-https://kool.to/play/497551147/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="NAT GEO WILD", NAT GEO WILD
-https://kool.to/play/325169620/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="VOX", VOX
-https://kool.to/play/3622161112/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="ROMANCE TV", ROMANCE TV
-https://kool.to/play/2747900754/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="SKY ATLANTIC", SKY ATLANTIC
-https://kool.to/play/2340670204/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="SKY NATURE HD", SKY NATURE HD
-https://kool.to/play/1699811246/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-name="MAX KINO", MAX KINO
+https://kool.to/play/3472371261/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="WARNER COMEDY", WARNER COMEDY
 https://kool.to/play/400663888/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="DAZN", DAZN
-https://kool.to/play/263339334/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-name="KABEL EINS DOKU", KABEL EINS DOKU
+https://kool.to/play/2372195442/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="DAZN 1", DAZN 1
-https://kool.to/play/3579549301/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-name="AMAZON PRIME HD", AMAZON PRIME HD
+https://kool.to/play/3648815838/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="KABEL EINS", KABEL EINS
+https://kool.to/play/3390031045/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="RTL ZWEI", RTL ZWEI
+https://kool.to/play/2877582637/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="HISTORY", HISTORY
@@ -241,12 +209,28 @@ https://kool.to/play/1310655423/index.m3u8
 https://kool.to/play/3073392667/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="VOX", VOX
+https://kool.to/play/3622161112/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="SKY ATLANTIC", SKY ATLANTIC
+https://kool.to/play/2340670204/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="MAX KINO 2", MAX KINO 2
+https://kool.to/play/2956972870/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="SKY SPORT NEWS", SKY SPORT NEWS
 https://kool.to/play/2649186974/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="NAT GEO WILD", NAT GEO WILD
 https://kool.to/play/3501325497/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="NAT GEO WILD", NAT GEO WILD
+https://kool.to/play/325169620/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="KABEL EINS CLASSICS HD", KABEL EINS CLASSICS HD
@@ -265,8 +249,8 @@ https://kool.to/play/1555582113/index.m3u8
 https://kool.to/play/1623445374/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="ARTE", ARTE
-https://kool.to/play/1216857802/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-name="ROMANCE TV", ROMANCE TV
+https://kool.to/play/2747900754/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="DAS ERSTE", DAS ERSTE
@@ -277,16 +261,20 @@ https://kool.to/play/2781626432/index.m3u8
 https://kool.to/play/1294614502/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="AMAZON PRIME VIDEO 2", AMAZON PRIME VIDEO 2
+https://kool.to/play/2469693031/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="Sky Sport NEWS HD", Sky Sport NEWS HD
 https://kool.to/play/3312770423/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="BLUETV HORROR 1 ʜᴅ", BLUETV HORROR 1 ʜᴅ
-https://kool.to/play/1357175213/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-name="SKY NATURE HD", SKY NATURE HD
+https://kool.to/play/1699811246/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="MAX KINO", MAX KINO
-https://kool.to/play/3472371261/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-name="DAZN 1", DAZN 1
+https://kool.to/play/3579549301/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="SKY SPORT NEWS", SKY SPORT NEWS
@@ -305,12 +293,12 @@ https://kool.to/play/3933316497/index.m3u8
 https://kool.to/play/2814908252/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="SKY KRIMI HD", SKY KRIMI HD
-https://kool.to/play/2969860284/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-name="SKY SPORT TENNIS", SKY SPORT TENNIS
+https://kool.to/play/497551147/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="DAZN 1 HD", DAZN 1 HD
-https://kool.to/play/2267295660/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-name="SKY KRIMI HD", SKY KRIMI HD
+https://kool.to/play/2969860284/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="SYFY", SYFY
@@ -321,6 +309,14 @@ https://kool.to/play/3764999351/index.m3u8
 https://kool.to/play/1475097052/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="ARTE", ARTE
+https://kool.to/play/1216857802/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="N", N
+https://kool.to/play/2784325436/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="PROSIEBEN MAXX", PROSIEBEN MAXX
 https://kool.to/play/756654497/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -329,20 +325,16 @@ https://kool.to/play/756654497/index.m3u8
 https://kool.to/play/3282185407/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="AMAZON PRIME VIDEO 2", AMAZON PRIME VIDEO 2
-https://kool.to/play/2469693031/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="SKY CINEMA FAMILY", SKY CINEMA FAMILY
 https://kool.to/play/2615245916/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="BLUETV 4K ABENTEUER", BLUETV 4K ABENTEUER
-https://kool.to/play/3609692090/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-name="SKY CINEMA FAMILY HD", SKY CINEMA FAMILY HD
+https://kool.to/play/1988074518/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="SKY DOCUMENTARIES HD", SKY DOCUMENTARIES HD
-https://kool.to/play/2091375723/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-name="BLUETV HORROR 1 ʜᴅ", BLUETV HORROR 1 ʜᴅ
+https://kool.to/play/1357175213/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="SKY SPORT F1 HD", SKY SPORT F1 HD
@@ -389,6 +381,10 @@ https://kool.to/play/3560060644/index.m3u8
 https://kool.to/play/794036278/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="DAZN 1 HD", DAZN 1 HD
+https://kool.to/play/2267295660/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="WELT", WELT
 https://kool.to/play/3794756322/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -413,10 +409,6 @@ https://kool.to/play/371136743/index.m3u8
 https://kool.to/play/438448158/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="N", N
-https://kool.to/play/2784325436/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="BLUETV 4K ACTION", BLUETV 4K ACTION
 https://kool.to/play/3241315611/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -429,6 +421,10 @@ https://kool.to/play/2398236131/index.m3u8
 https://kool.to/play/813996919/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="BLUETV 4K ABENTEUER", BLUETV 4K ABENTEUER
+https://kool.to/play/3609692090/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="PROSIEBEN FUN", PROSIEBEN FUN
 https://kool.to/play/3075656047/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -437,16 +433,12 @@ https://kool.to/play/3075656047/index.m3u8
 https://kool.to/play/821753191/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="DAZN 2", DAZN 2
-https://kool.to/play/2923762838/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="SKY 24", SKY 24
 https://kool.to/play/1495501666/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="SKY CINEMA FAMILY HD", SKY CINEMA FAMILY HD
-https://kool.to/play/1988074518/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-name="SKY DOCUMENTARIES HD", SKY DOCUMENTARIES HD
+https://kool.to/play/2091375723/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="SKY SPORT", SKY SPORT
@@ -481,16 +473,24 @@ https://kool.to/play/1949189696/index.m3u8
 https://kool.to/play/3103788875/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="EUROSPORT 2", EUROSPORT 2
-https://kool.to/play/3178954282/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-name="DYN SPORT", DYN SPORT
+https://kool.to/play/493970639/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="MAX KINO COLLECTION", MAX KINO COLLECTION
 https://kool.to/play/3766920010/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="RTL HD", RTL HD
-https://kool.to/play/2728119673/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-name="SAT.1 HD", SAT.1 HD
+https://kool.to/play/3017451059/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="SKY SPORT NEWS", SKY SPORT NEWS
+https://kool.to/play/4156854331/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="DAZN", DAZN
+https://kool.to/play/263339334/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="VOX HD", VOX HD
@@ -505,20 +505,16 @@ https://kool.to/play/742772823/index.m3u8
 https://kool.to/play/2371877622/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="KABEL EINS HD", KABEL EINS HD
-https://kool.to/play/133606649/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="RTL UP", RTL UP
 https://kool.to/play/1198260913/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="COMEDY CENTRAL", COMEDY CENTRAL
-https://kool.to/play/373766808/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-name="SKY BOX HORROR HD", SKY BOX HORROR HD
+https://kool.to/play/1964620151/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="SKY SPORT AUSTRIA 1", SKY SPORT AUSTRIA 1
-https://kool.to/play/766992038/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-name="COMEDY CENTRAL", COMEDY CENTRAL
+https://kool.to/play/373766808/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="KABEL EINS DOKU", KABEL EINS DOKU
@@ -527,6 +523,10 @@ https://kool.to/play/77413792/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="SKY CINEMA HIGHLIGHT", SKY CINEMA HIGHLIGHT
 https://kool.to/play/1723046465/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="DISCOVERY WORLD", DISCOVERY WORLD
+https://kool.to/play/2877933473/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="DAZN 2", DAZN 2
@@ -539,10 +539,6 @@ https://kool.to/play/3611544303/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="HEIMAT KANAL", HEIMAT KANAL
 https://kool.to/play/3743017750/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="EUROSPORT 2", EUROSPORT 2
-https://kool.to/play/259749288/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="RTL ZWEI", RTL ZWEI
@@ -601,20 +597,28 @@ https://kool.to/play/3488435572/index.m3u8
 https://kool.to/play/379030969/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="DAZN 2", DAZN 2
+https://kool.to/play/2923762838/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="Sky Sport TENNIS FHD", Sky Sport TENNIS FHD
 https://kool.to/play/3297284674/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="SKY SPORT 5", SKY SPORT 5
+https://kool.to/play/2393555378/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="EUROSPORT 1", EUROSPORT 1
 https://kool.to/play/2924660569/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="Sky Sport TENNIS HD", Sky Sport TENNIS HD
-https://kool.to/play/728958501/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-name="SKY BUNDESLIGA", SKY BUNDESLIGA
+https://kool.to/play/1917998896/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="STERN FILME", STERN FILME
-https://kool.to/play/3288066978/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-name="Sky Sport TENNIS HD", Sky Sport TENNIS HD
+https://kool.to/play/728958501/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="RTL CRIME HD", RTL CRIME HD
@@ -625,16 +629,16 @@ https://kool.to/play/1648424420/index.m3u8
 https://kool.to/play/672710480/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="EUROSPORT 2 FHD", EUROSPORT 2 FHD
-https://kool.to/play/577088535/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-name="SKY CINEMA THRILLER HD", SKY CINEMA THRILLER HD
+https://kool.to/play/85520340/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="KIKA", KIKA
 https://kool.to/play/1978971661/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="DYN SPORT", DYN SPORT
-https://kool.to/play/493970639/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-name="DYN SPORT 9", DYN SPORT 9
+https://kool.to/play/755052302/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="SERVUS TV", SERVUS TV
@@ -649,16 +653,16 @@ https://kool.to/play/91673989/index.m3u8
 https://kool.to/play/2131167186/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="SAT.1 HD", SAT.1 HD
-https://kool.to/play/3017451059/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-name="SAT.1", SAT.1
+https://kool.to/play/4122072531/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="CRIME INVESTIGATION", CRIME INVESTIGATION
 https://kool.to/play/1929153524/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="SKY SPORT NEWS", SKY SPORT NEWS
-https://kool.to/play/4156854331/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-name="RTL HD", RTL HD
+https://kool.to/play/2728119673/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="SKY CINEMA PREMIEREN", SKY CINEMA PREMIEREN
@@ -669,6 +673,10 @@ https://kool.to/play/4117277461/index.m3u8
 https://kool.to/play/2668658037/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="KABEL EINS HD", KABEL EINS HD
+https://kool.to/play/133606649/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="HISTORY HD", HISTORY HD
 https://kool.to/play/4013755273/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -677,16 +685,12 @@ https://kool.to/play/4013755273/index.m3u8
 https://kool.to/play/2307006284/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="SKY BOX HORROR HD", SKY BOX HORROR HD
-https://kool.to/play/1964620151/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="SKY CINEMA ACTION HD", SKY CINEMA ACTION HD
 https://kool.to/play/4140398534/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="DAZN 1 FHD", DAZN 1 FHD
-https://kool.to/play/1346436847/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-name="SKY SPORT AUSTRIA 1", SKY SPORT AUSTRIA 1
+https://kool.to/play/766992038/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="N", N
@@ -705,6 +709,10 @@ https://kool.to/play/3136042538/index.m3u8
 https://kool.to/play/2748335805/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="DAZN 4", DAZN 4
+https://kool.to/play/1484263760/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="SKY BUNDESLIGA 1", SKY BUNDESLIGA 1
 https://kool.to/play/1554081161/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -719,10 +727,6 @@ https://kool.to/play/1059241617/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="SKY REPLAY", SKY REPLAY
 https://kool.to/play/2276831746/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="DISCOVERY WORLD", DISCOVERY WORLD
-https://kool.to/play/2877933473/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="DAZN 2", DAZN 2
@@ -773,10 +777,6 @@ https://kool.to/play/3522719651/index.m3u8
 https://kool.to/play/502933258/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="SKY KRIMI HD", SKY KRIMI HD
-https://kool.to/play/1869613335/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="SKY SELECT 5", SKY SELECT 5
 https://kool.to/play/380274361/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -797,6 +797,14 @@ https://kool.to/play/2936413245/index.m3u8
 https://kool.to/play/771256431/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="ANIMAL PLANET HD", ANIMAL PLANET HD
+https://kool.to/play/2440347370/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="DAZN 15", DAZN 15
+https://kool.to/play/504884559/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="MAGENTA FUSSBALL 4 HD", MAGENTA FUSSBALL 4 HD
 https://kool.to/play/4060887118/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -809,6 +817,10 @@ https://kool.to/play/2460927824/index.m3u8
 https://kool.to/play/2088976301/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="GERMANY KONIG FILME 2", GERMANY KONIG FILME 2
+https://kool.to/play/1088396686/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="SPORT DIGITAL", SPORT DIGITAL
 https://kool.to/play/2293549580/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -819,6 +831,10 @@ https://kool.to/play/2984717924/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="MAGENTA FUSSBALL 3 HD", MAGENTA FUSSBALL 3 HD
 https://kool.to/play/4173934935/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="SKY BOX WESTERN HD", SKY BOX WESTERN HD
+https://kool.to/play/50330410/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="RTL PASSION HD", RTL PASSION HD
@@ -837,6 +853,10 @@ https://kool.to/play/1577371598/index.m3u8
 https://kool.to/play/1506084946/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="RTL LIVING HD", RTL LIVING HD
+https://kool.to/play/4137685383/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="3SAT", 3SAT
 https://kool.to/play/3228877884/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -847,10 +867,6 @@ https://kool.to/play/3051100732/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="SKY BOX HISTORIE HD", SKY BOX HISTORIE HD
 https://kool.to/play/2560765084/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="RTL LIVING HD", RTL LIVING HD
-https://kool.to/play/4137685383/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="EUROSPORT", EUROSPORT
@@ -905,6 +921,10 @@ https://kool.to/play/1650305658/index.m3u8
 https://kool.to/play/2787579262/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="123.TV", 123.TV
+https://kool.to/play/51258455/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="DAZN 2 HD", DAZN 2 HD
 https://kool.to/play/162211919/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -917,16 +937,8 @@ https://kool.to/play/1018615269/index.m3u8
 https://kool.to/play/1743038820/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="SKY SPORT 2", SKY SPORT 2
-https://kool.to/play/1870973910/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="SKY SPORT F1", SKY SPORT F1
 https://kool.to/play/3788216934/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="SKY SPORT 5", SKY SPORT 5
-https://kool.to/play/2393555378/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="SKY CINEMA", SKY CINEMA
@@ -945,18 +957,6 @@ https://kool.to/play/2539398282/index.m3u8
 https://kool.to/play/1693994894/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="SKY BUNDESLIGA", SKY BUNDESLIGA
-https://kool.to/play/1917998896/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="ESPORTS", ESPORTS
-https://kool.to/play/2975640481/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="GERMANY WESTERN", GERMANY WESTERN
-https://kool.to/play/2112272618/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="WAIDWERK TV", WAIDWERK TV
 https://kool.to/play/2801878070/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -969,12 +969,16 @@ https://kool.to/play/705341427/index.m3u8
 https://kool.to/play/2935466724/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="SPORTDIGITAL FUSSBALL", SPORTDIGITAL FUSSBALL
-https://kool.to/play/1939849274/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-name="SKY SPORT 4", SKY SPORT 4
+https://kool.to/play/1643673427/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="MAGENTA SPORT", MAGENTA SPORT
 https://kool.to/play/3432695221/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="STERN FILME", STERN FILME
+https://kool.to/play/3288066978/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="DB LIGA 5 HD", DB LIGA 5 HD
@@ -989,6 +993,10 @@ https://kool.to/play/315012507/index.m3u8
 https://kool.to/play/1793902345/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="DISNEY CHANNEL", DISNEY CHANNEL
+https://kool.to/play/2749392374/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="SKY SPORT 4", SKY SPORT 4
 https://kool.to/play/4135972483/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1001,8 +1009,8 @@ https://kool.to/play/2151805300/index.m3u8
 https://kool.to/play/3977919284/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="SKY CINEMA THRILLER HD", SKY CINEMA THRILLER HD
-https://kool.to/play/85520340/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-name="SKY SPORT 2", SKY SPORT 2
+https://kool.to/play/2042960675/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="SKY BUNDESLIGA 6", SKY BUNDESLIGA 6
@@ -1013,8 +1021,8 @@ https://kool.to/play/3180294125/index.m3u8
 https://kool.to/play/3999710514/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="RTL CRIME", RTL CRIME
-https://kool.to/play/3323550976/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-name="EUROSPORT 2 FHD", EUROSPORT 2 FHD
+https://kool.to/play/577088535/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="SKY CINEMA 24", SKY CINEMA 24
@@ -1045,10 +1053,6 @@ https://kool.to/play/2278748656/index.m3u8
 https://kool.to/play/4101211079/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="DYN SPORT 9", DYN SPORT 9
-https://kool.to/play/755052302/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="SWR HD", SWR HD
 https://kool.to/play/500623417/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1059,6 +1063,10 @@ https://kool.to/play/125822814/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="AUTO MOTOR SPORT", AUTO MOTOR SPORT
 https://kool.to/play/1834925213/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="EUROSPORT 2", EUROSPORT 2
+https://kool.to/play/3178954282/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="SKY BOX PREMIEREN 2 HD", SKY BOX PREMIEREN 2 HD
@@ -1077,16 +1085,20 @@ https://kool.to/play/3908157967/index.m3u8
 https://kool.to/play/3678619950/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="MAGENTA SPORT 3", MAGENTA SPORT 3
-https://kool.to/play/287978760/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="MAGENTA SPORT 11", MAGENTA SPORT 11
 https://kool.to/play/2398423057/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="DYN SPORT 4", DYN SPORT 4
 https://kool.to/play/3583110079/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="SKY SHOWCASE", SKY SHOWCASE
+https://kool.to/play/3147780323/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="MAGENTA SPORT 6", MAGENTA SPORT 6
+https://kool.to/play/3653941880/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="MAGENTA SPORT 10", MAGENTA SPORT 10
@@ -1099,10 +1111,6 @@ https://kool.to/play/2526131595/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="MAGENTA SPORT 2", MAGENTA SPORT 2
 https://kool.to/play/743054520/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="Sky Sport PREMIER LEAGUE HD", Sky Sport PREMIER LEAGUE HD
-https://kool.to/play/2779841779/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="MAGENTA SPORT 11", MAGENTA SPORT 11
@@ -1121,10 +1129,6 @@ https://kool.to/play/2636192478/index.m3u8
 https://kool.to/play/236268082/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="DYN SPORT 2", DYN SPORT 2
-https://kool.to/play/1523654175/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="MAGENTA SPORT 12", MAGENTA SPORT 12
 https://kool.to/play/3474801522/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1133,12 +1137,12 @@ https://kool.to/play/3474801522/index.m3u8
 https://kool.to/play/2941368543/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="EUROSPORT 2 XTRA HD", EUROSPORT 2 XTRA HD
-https://kool.to/play/2674415975/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-name="BLUETV ABENTEUER ʜᴅ", BLUETV ABENTEUER ʜᴅ
+https://kool.to/play/2551196858/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="DYN SPORT 7", DYN SPORT 7
-https://kool.to/play/2452722031/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-name="EUROSPORT 2 XTRA HD", EUROSPORT 2 XTRA HD
+https://kool.to/play/2674415975/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="MAGENTA SPORT", MAGENTA SPORT
@@ -1177,20 +1181,20 @@ https://kool.to/play/517883717/index.m3u8
 https://kool.to/play/2791794116/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="SKY BOX PREMIEREN 16 HD", SKY BOX PREMIEREN 16 HD
-https://kool.to/play/420771540/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-name="BLUETV ACTION 2 ʜᴅ", BLUETV ACTION 2 ʜᴅ
+https://kool.to/play/1135050852/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="SKY SELECT 1 BOX", SKY SELECT 1 BOX
 https://kool.to/play/1652281656/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="TNT FILM HD", TNT FILM HD
-https://kool.to/play/3298139173/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-name="SKY ACTION", SKY ACTION
+https://kool.to/play/1976246828/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="SAT.1", SAT.1
-https://kool.to/play/4122072531/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-name="TNT FILM HD", TNT FILM HD
+https://kool.to/play/3298139173/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="NAT GEO WILD", NAT GEO WILD
@@ -1217,6 +1221,10 @@ https://kool.to/play/805972699/index.m3u8
 https://kool.to/play/1140008898/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="DAZN 1 FHD", DAZN 1 FHD
+https://kool.to/play/1346436847/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="UNIVERSAL TV", UNIVERSAL TV
 https://kool.to/play/3882504973/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1227,10 +1235,6 @@ https://kool.to/play/2169389937/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="ANIMAL PLANET", ANIMAL PLANET
 https://kool.to/play/2038035598/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="DAZN 4", DAZN 4
-https://kool.to/play/1484263760/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="SKY CINEMA SPECIAL", SKY CINEMA SPECIAL
@@ -1261,6 +1265,10 @@ https://kool.to/play/3376306407/index.m3u8
 https://kool.to/play/253687979/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="EUROSPORT 2", EUROSPORT 2
+https://kool.to/play/259749288/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="SKY BOX MYSTERY HD", SKY BOX MYSTERY HD
 https://kool.to/play/4005116622/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1271,6 +1279,10 @@ https://kool.to/play/3118937743/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="TNT FILM HD", TNT FILM HD
 https://kool.to/play/4177014626/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="SKY KRIMI HD", SKY KRIMI HD
+https://kool.to/play/1869613335/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="DAZN 5", DAZN 5
@@ -1301,10 +1313,6 @@ https://kool.to/play/4056474116/index.m3u8
 https://kool.to/play/2639678240/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="ANIMAL PLANET HD", ANIMAL PLANET HD
-https://kool.to/play/2440347370/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="RTL PASSION", RTL PASSION
 https://kool.to/play/1298738683/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1313,16 +1321,8 @@ https://kool.to/play/1298738683/index.m3u8
 https://kool.to/play/269260313/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="DAZN 15", DAZN 15
-https://kool.to/play/504884559/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="SKY CINEMA PREMIEREN HD", SKY CINEMA PREMIEREN HD
 https://kool.to/play/4265879600/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="GERMANY KONIG FILME 2", GERMANY KONIG FILME 2
-https://kool.to/play/1088396686/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="ZDF NEO", ZDF NEO
@@ -1347,10 +1347,6 @@ https://kool.to/play/2633164625/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="NICKELODEON", NICKELODEON
 https://kool.to/play/3316874696/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="SKY BOX WESTERN HD", SKY BOX WESTERN HD
-https://kool.to/play/50330410/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="WELT", WELT
@@ -1409,10 +1405,6 @@ https://kool.to/play/1240703321/index.m3u8
 https://kool.to/play/2181381785/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="TLC", TLC
-https://kool.to/play/3520991180/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="SKY SELECT", SKY SELECT
 https://kool.to/play/2903000601/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1457,10 +1449,6 @@ https://kool.to/play/2916930910/index.m3u8
 https://kool.to/play/3874898838/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="123.TV", 123.TV
-https://kool.to/play/51258455/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="SKY CINEMA CLASSICS HD", SKY CINEMA CLASSICS HD
 https://kool.to/play/361705436/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1481,6 +1469,10 @@ https://kool.to/play/1787631072/index.m3u8
 https://kool.to/play/1988924073/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="SKY SPORT 2", SKY SPORT 2
+https://kool.to/play/1870973910/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="AXN", AXN
 https://kool.to/play/2230270105/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1493,20 +1485,28 @@ https://kool.to/play/2422241584/index.m3u8
 https://kool.to/play/905063904/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="ESPORTS", ESPORTS
+https://kool.to/play/2975640481/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="BLUETV 4K HORROR", BLUETV 4K HORROR
 https://kool.to/play/3719687925/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="GERMANY WESTERN", GERMANY WESTERN
+https://kool.to/play/2112272618/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="BOOMERANG", BOOMERANG
 https://kool.to/play/1143040565/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="SKY SPORT 3", SKY SPORT 3
-https://kool.to/play/2161540407/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-name="SPORTDIGITAL FUSSBALL", SPORTDIGITAL FUSSBALL
+https://kool.to/play/1939849274/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="SKY SPORT 4", SKY SPORT 4
-https://kool.to/play/1643673427/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-name="SKY SPORT 3", SKY SPORT 3
+https://kool.to/play/2161540407/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="WARNER TV SERIE", WARNER TV SERIE
@@ -1531,10 +1531,6 @@ https://kool.to/play/2183749540/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="ORF 3", ORF 3
 https://kool.to/play/3354430713/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="DISNEY CHANNEL", DISNEY CHANNEL
-https://kool.to/play/2749392374/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="ORF", ORF
@@ -1571,10 +1567,6 @@ https://kool.to/play/4264490284/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="SKY SPORT 6", SKY SPORT 6
 https://kool.to/play/2353380835/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="SKY SPORT 2", SKY SPORT 2
-https://kool.to/play/2042960675/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="SKY 1 HD", SKY 1 HD
@@ -1657,6 +1649,10 @@ https://kool.to/play/2029274414/index.m3u8
 https://kool.to/play/2735828708/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="3SAT", 3SAT
+https://kool.to/play/1902600011/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="SPIEGEL GESCHICHTE", SPIEGEL GESCHICHTE
 https://kool.to/play/382424172/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1713,12 +1709,16 @@ https://kool.to/play/119323253/index.m3u8
 https://kool.to/play/1455041575/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="SKY CINEMA THRILLER", SKY CINEMA THRILLER
-https://kool.to/play/571248465/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-name="SKY BOX PREMIEREN 13 HD", SKY BOX PREMIEREN 13 HD
+https://kool.to/play/1374976176/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="GERMANY GUTE FILME 4", GERMANY GUTE FILME 4
-https://kool.to/play/3989417093/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-name="SKY SELECT 9 HD", SKY SELECT 9 HD
+https://kool.to/play/3485784838/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="SKY CINEMA THRILLER", SKY CINEMA THRILLER
+https://kool.to/play/571248465/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="SKY SPORT AUSTRIA 2", SKY SPORT AUSTRIA 2
@@ -1773,6 +1773,10 @@ https://kool.to/play/2900784983/index.m3u8
 https://kool.to/play/3675357538/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="STERN FILME 2", STERN FILME 2
+https://kool.to/play/2220593522/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="MAGENTA SPORT 8", MAGENTA SPORT 8
 https://kool.to/play/1727661081/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1817,6 +1821,10 @@ https://kool.to/play/1865708346/index.m3u8
 https://kool.to/play/1874241603/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="MAGENTA SPORT 3", MAGENTA SPORT 3
+https://kool.to/play/287978760/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="SPORT1 FHD", SPORT1 FHD
 https://kool.to/play/4116446750/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1849,24 +1857,12 @@ https://kool.to/play/2076609123/index.m3u8
 https://kool.to/play/2659830919/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="SKY SHOWCASE", SKY SHOWCASE
-https://kool.to/play/3147780323/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="DB LIGA 7 HD", DB LIGA 7 HD
 https://kool.to/play/3860309120/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="MAGENTA SPORT 6", MAGENTA SPORT 6
-https://kool.to/play/3653941880/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="TELEKOM BUNDESLIGA 6", TELEKOM BUNDESLIGA 6
 https://kool.to/play/1264086917/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="SKY BOX PREMIEREN 11 HD", SKY BOX PREMIEREN 11 HD
-https://kool.to/play/332496845/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="BERGBLICK", BERGBLICK
@@ -1887,6 +1883,10 @@ https://kool.to/play/1378077721/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="TELEKOM BUNDESLIGA 5", TELEKOM BUNDESLIGA 5
 https://kool.to/play/217584981/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="Sky Sport PREMIER LEAGUE HD", Sky Sport PREMIER LEAGUE HD
+https://kool.to/play/2779841779/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="MTV", MTV
@@ -1919,6 +1919,10 @@ https://kool.to/play/3398209199/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="TELEKOM BUNDESLIGA 4 HD", TELEKOM BUNDESLIGA 4 HD
 https://kool.to/play/142797378/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="SKY BOX PREMIEREN 14 HD", SKY BOX PREMIEREN 14 HD
+https://kool.to/play/1529967017/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="Sky Sport 2 FHD", Sky Sport 2 FHD
@@ -1981,6 +1985,10 @@ https://kool.to/play/878916041/index.m3u8
 https://kool.to/play/2035219961/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="DYN SPORT 2", DYN SPORT 2
+https://kool.to/play/1523654175/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="DB LIGA 6 FHD", DB LIGA 6 FHD
 https://kool.to/play/1971500484/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -2001,6 +2009,14 @@ https://kool.to/play/2972030035/index.m3u8
 https://kool.to/play/2135045441/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="MAGENTA SPORT 5", MAGENTA SPORT 5
+https://kool.to/play/2657796264/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="DYN SPORT 7", DYN SPORT 7
+https://kool.to/play/2452722031/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="SKY BUNDESLIGA 7", SKY BUNDESLIGA 7
 https://kool.to/play/487466796/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -2011,6 +2027,10 @@ https://kool.to/play/1818114023/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="DB LIGA 6 HD", DB LIGA 6 HD
 https://kool.to/play/717071390/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="SKY SELECT PREMIERE 3", SKY SELECT PREMIERE 3
+https://kool.to/play/3343704634/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="DYN SPORT 10", DYN SPORT 10
@@ -2031,6 +2051,10 @@ https://kool.to/play/1994192997/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="TELEKOM BUNDESLIGA 8", TELEKOM BUNDESLIGA 8
 https://kool.to/play/88489833/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="STERN FILME 3", STERN FILME 3
+https://kool.to/play/3107698882/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="ONE MUSIC", ONE MUSIC
@@ -2109,10 +2133,6 @@ https://kool.to/play/1471731071/index.m3u8
 https://kool.to/play/2965864696/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="ESPORTS 1", ESPORTS 1
-https://kool.to/play/3911683934/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="TELEKOM BUNDESLIGA 1 HD", TELEKOM BUNDESLIGA 1 HD
 https://kool.to/play/1080222758/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -2123,6 +2143,10 @@ https://kool.to/play/2880841633/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="SKY CINEMA NOSTALGIE", SKY CINEMA NOSTALGIE
 https://kool.to/play/631616247/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="SAT.1 EMOTIONS", SAT.1 EMOTIONS
+https://kool.to/play/1294512806/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="SKY SELECT", SKY SELECT
@@ -2151,10 +2175,6 @@ https://kool.to/play/2485128816/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="BLUETV THRILLER 1 ʜᴅ", BLUETV THRILLER 1 ʜᴅ
 https://kool.to/play/1306153636/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="SKY POPCORN SELECT 5", SKY POPCORN SELECT 5
-https://kool.to/play/1574640463/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="SKY SELECT 7", SKY SELECT 7
@@ -2193,8 +2213,8 @@ https://kool.to/play/3586029130/index.m3u8
 https://kool.to/play/3730941494/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="TV 2 NEWS", TV 2 NEWS
-https://kool.to/play/937818566/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-name="PHOENIX", PHOENIX
+https://kool.to/play/1724125520/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="RBB BERLIN", RBB BERLIN
@@ -2213,10 +2233,6 @@ https://kool.to/play/3175116374/index.m3u8
 https://kool.to/play/3797660887/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="SKY SPORT AUSTRIA 3", SKY SPORT AUSTRIA 3
-https://kool.to/play/677590309/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="BLUETV 4K KOM DIE", BLUETV 4K KOM DIE
 https://kool.to/play/935907078/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -2233,8 +2249,16 @@ https://kool.to/play/4034313129/index.m3u8
 https://kool.to/play/916181348/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="SKY BOX PREMIEREN 16 HD", SKY BOX PREMIEREN 16 HD
+https://kool.to/play/420771540/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="BLUETV DOKUMENTARFILM ʜᴅ", BLUETV DOKUMENTARFILM ʜᴅ
 https://kool.to/play/2654578686/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="MOTORVISION TV", MOTORVISION TV
+https://kool.to/play/330584541/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="SKY BOX PREMIEREN 19 HD", SKY BOX PREMIEREN 19 HD
@@ -2261,32 +2285,12 @@ https://kool.to/play/770027360/index.m3u8
 https://kool.to/play/1970028074/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="SKY SERIEN", SKY SERIEN
-https://kool.to/play/873142600/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="BLUETV BOLLYWOOD ʜᴅ", BLUETV BOLLYWOOD ʜᴅ
 https://kool.to/play/1996843166/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="ESPORTS 1 FHD", ESPORTS 1 FHD
-https://kool.to/play/2061834313/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="MAGENTA SPORT 2", MAGENTA SPORT 2
 https://kool.to/play/2335883109/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="SKY ACTION", SKY ACTION
-https://kool.to/play/1976246828/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="EDGE SPORT", EDGE SPORT
-https://kool.to/play/2604913714/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="ESPORTS 1 HD", ESPORTS 1 HD
-https://kool.to/play/1307123031/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="KANAL 5", KANAL 5
@@ -2317,10 +2321,6 @@ https://kool.to/play/215046281/index.m3u8
 https://kool.to/play/3401470222/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="STERN FILME 7", STERN FILME 7
-https://kool.to/play/1287331330/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="TNT SERIE HD", TNT SERIE HD
 https://kool.to/play/1310739364/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -2333,16 +2333,16 @@ https://kool.to/play/75123397/index.m3u8
 https://kool.to/play/3545622272/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="STERN FILME 8", STERN FILME 8
-https://kool.to/play/3471542739/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="STERN FILME 9", STERN FILME 9
-https://kool.to/play/4086014051/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-name="MAGENTA SPORT 5", MAGENTA SPORT 5
+https://kool.to/play/958030709/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="SKY SPORT 6 HD", SKY SPORT 6 HD
 https://kool.to/play/463237157/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="MAGENTA SPORT 7", MAGENTA SPORT 7
+https://kool.to/play/1138372629/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="TV INGOLSTADT", TV INGOLSTADT
@@ -2351,6 +2351,10 @@ https://kool.to/play/4030242361/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="SKY SERIEN", SKY SERIEN
 https://kool.to/play/3353964677/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="MAGENTA SPORT 6", MAGENTA SPORT 6
+https://kool.to/play/2126125477/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="SKY SPORT 9 HD", SKY SPORT 9 HD
@@ -2443,6 +2447,10 @@ https://kool.to/play/2760792828/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="HGTV", HGTV
 https://kool.to/play/2332307823/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="TLC", TLC
+https://kool.to/play/3520991180/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="SKY CINEMA FAMILY", SKY CINEMA FAMILY
@@ -2565,12 +2573,12 @@ https://kool.to/play/4037648131/index.m3u8
 https://kool.to/play/4286426006/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="GAME OF THRONES CHANNEL", GAME OF THRONES CHANNEL
-https://kool.to/play/1063623223/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-name="RTL CRIME", RTL CRIME
+https://kool.to/play/3323550976/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="3SAT", 3SAT
-https://kool.to/play/1902600011/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-name="GAME OF THRONES CHANNEL", GAME OF THRONES CHANNEL
+https://kool.to/play/1063623223/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="SUPER RTL HD", SUPER RTL HD
@@ -2629,20 +2637,16 @@ https://kool.to/play/1241669666/index.m3u8
 https://kool.to/play/3497158161/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="SKY BOX PREMIEREN 13 HD", SKY BOX PREMIEREN 13 HD
-https://kool.to/play/1374976176/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="SKY SELECT 9 HD", SKY SELECT 9 HD
-https://kool.to/play/3485784838/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="PROSIEBEN MAXX HEVC", PROSIEBEN MAXX HEVC
 https://kool.to/play/1913066493/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="DB LIGA 1 HD", DB LIGA 1 HD
 https://kool.to/play/544779527/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="GERMANY GUTE FILME 4", GERMANY GUTE FILME 4
+https://kool.to/play/3989417093/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="N24 DOKU", N24 DOKU
@@ -2675,10 +2679,6 @@ https://kool.to/play/4279471443/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="DELUXE MUSIC", DELUXE MUSIC
 https://kool.to/play/2185652870/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="STERN FILME 2", STERN FILME 2
-https://kool.to/play/2220593522/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="SKY BOX PREMIEREN 10 HD", SKY BOX PREMIEREN 10 HD
@@ -2731,6 +2731,10 @@ https://kool.to/play/2130689902/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="SKY SELECT 5", SKY SELECT 5
 https://kool.to/play/2606280116/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="SKY BOX PREMIEREN 11 HD", SKY BOX PREMIEREN 11 HD
+https://kool.to/play/332496845/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="CARTOON NETWORK", CARTOON NETWORK
@@ -2817,10 +2821,6 @@ https://kool.to/play/1474407208/index.m3u8
 https://kool.to/play/171665621/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="SKY BOX PREMIEREN 14 HD", SKY BOX PREMIEREN 14 HD
-https://kool.to/play/1529967017/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="BLUETV ACTION ʜᴅ", BLUETV ACTION ʜᴅ
 https://kool.to/play/1289064117/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -2861,16 +2861,8 @@ https://kool.to/play/122860021/index.m3u8
 https://kool.to/play/283510209/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="BLUETV ABENTEUER ʜᴅ", BLUETV ABENTEUER ʜᴅ
-https://kool.to/play/2551196858/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="HR FERNSEHEN", HR FERNSEHEN
 https://kool.to/play/866580164/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="MAGENTA SPORT 5", MAGENTA SPORT 5
-https://kool.to/play/2657796264/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="SKY SELECT 4", SKY SELECT 4
@@ -2887,10 +2879,6 @@ https://kool.to/play/581240547/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="SKY BOX PREMIEREN 12 HD", SKY BOX PREMIEREN 12 HD
 https://kool.to/play/2640214062/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="SKY SELECT PREMIERE 3", SKY SELECT PREMIERE 3
-https://kool.to/play/3343704634/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="SKY SELECT 4", SKY SELECT 4
@@ -2911,10 +2899,6 @@ https://kool.to/play/3346505044/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="SKY SELECT 10 HD", SKY SELECT 10 HD
 https://kool.to/play/1225702913/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="STERN FILME 3", STERN FILME 3
-https://kool.to/play/3107698882/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="SKY SELECT 3", SKY SELECT 3
@@ -3001,6 +2985,10 @@ https://kool.to/play/2037441576/index.m3u8
 https://kool.to/play/375558930/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="ESPORTS 1", ESPORTS 1
+https://kool.to/play/3911683934/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="ARD ALPHA", ARD ALPHA
 https://kool.to/play/2330342976/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -3035,10 +3023,6 @@ https://kool.to/play/3593288083/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="GERMANY COMEDY", GERMANY COMEDY
 https://kool.to/play/3830483196/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="SAT.1 EMOTIONS", SAT.1 EMOTIONS
-https://kool.to/play/1294512806/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="SKY CINEMA EMOTION", SKY CINEMA EMOTION
@@ -3091,6 +3075,10 @@ https://kool.to/play/3957687275/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="SKY SELECT PREMIERE 17", SKY SELECT PREMIERE 17
 https://kool.to/play/3609567267/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="SKY POPCORN SELECT 5", SKY POPCORN SELECT 5
+https://kool.to/play/1574640463/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="EURONEWS DEUTSCH HD", EURONEWS DEUTSCH HD
@@ -3189,16 +3177,16 @@ https://kool.to/play/3938261779/index.m3u8
 https://kool.to/play/263471499/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="PHOENIX", PHOENIX
-https://kool.to/play/1724125520/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="NICK JR", NICK JR
 https://kool.to/play/4035838813/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="MOTORSPORT TV", MOTORSPORT TV
 https://kool.to/play/1371296327/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="TV 2 NEWS", TV 2 NEWS
+https://kool.to/play/937818566/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="ORF SPORT", ORF SPORT
@@ -3309,6 +3297,10 @@ https://kool.to/play/3996795400/index.m3u8
 https://kool.to/play/132070207/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="SKY SPORT AUSTRIA 3", SKY SPORT AUSTRIA 3
+https://kool.to/play/677590309/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="FOX HD", FOX HD
 https://kool.to/play/1158545284/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -3347,10 +3339,6 @@ https://kool.to/play/3255649955/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="BLUETV KOMODIE 1 ʜᴅ", BLUETV KOMODIE 1 ʜᴅ
 https://kool.to/play/4253115827/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="MOTORVISION TV", MOTORVISION TV
-https://kool.to/play/330584541/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="PHOENIX", PHOENIX
@@ -3441,10 +3429,6 @@ https://kool.to/play/3545918392/index.m3u8
 https://bild.personalstream.tv/v1/master.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="BLUETV ACTION 2 ʜᴅ", BLUETV ACTION 2 ʜᴅ
-https://kool.to/play/1135050852/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="SKY CINEMA EMOTION", SKY CINEMA EMOTION
 https://kool.to/play/126070455/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -3463,6 +3447,10 @@ https://kool.to/play/3014461260/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="BOOMERANG", BOOMERANG
 https://kool.to/play/248401354/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="SKY SERIEN", SKY SERIEN
+https://kool.to/play/873142600/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="BIBELTV HD", BIBELTV HD
@@ -3547,6 +3535,10 @@ https://kool.to/play/3746417663/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="SKY SELECT 9", SKY SELECT 9
 https://kool.to/play/2641890776/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="ESPORTS 1 FHD", ESPORTS 1 FHD
+https://kool.to/play/2061834313/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="RFO ROSENHEIM", RFO ROSENHEIM
@@ -3641,6 +3633,10 @@ https://kool.to/play/1818940889/index.m3u8
 https://kool.to/play/3567855153/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="EDGE SPORT", EDGE SPORT
+https://kool.to/play/2604913714/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="PIRATES OF THE CARIBBEAN", PIRATES OF THE CARIBBEAN
 https://kool.to/play/2757177620/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -3675,6 +3671,10 @@ https://kool.to/play/1966968276/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="DK4", DK4
 https://kool.to/play/1419294625/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="ESPORTS 1 HD", ESPORTS 1 HD
+https://kool.to/play/1307123031/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="JUWELO", JUWELO
@@ -3993,6 +3993,10 @@ https://kool.to/play/4215383566/index.m3u8
 https://kool.to/play/3258549066/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="STERN FILME 7", STERN FILME 7
+https://kool.to/play/1287331330/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="STERN FILME 6", STERN FILME 6
 https://kool.to/play/1910192050/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -4085,12 +4089,12 @@ https://kool.to/play/758511953/index.m3u8
 https://kool.to/play/397296568/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="MAGENTA SPORT 5", MAGENTA SPORT 5
-https://kool.to/play/958030709/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="NOA 4 HAMBURG", NOA 4 HAMBURG
 https://kool.to/play/2741142705/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="STERN FILME 8", STERN FILME 8
+https://kool.to/play/3471542739/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="SKY SELECT 15 4K (MULTIAUDIO)", SKY SELECT 15 4K (MULTIAUDIO)
@@ -4135,6 +4139,10 @@ https://kool.to/play/825882949/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="VH1 CLASSIC", VH1 CLASSIC
 https://kool.to/play/754018564/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Germany" tvg-name="STERN FILME 9", STERN FILME 9
+https://kool.to/play/4086014051/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="RTL", RTL
@@ -4313,10 +4321,6 @@ https://kool.to/play/3343252372/index.m3u8
 https://kool.to/play/475618652/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="MAGENTA SPORT 7", MAGENTA SPORT 7
-https://kool.to/play/1138372629/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="EAGLE MASHA UND DER B HD", EAGLE MASHA UND DER B HD
 https://kool.to/play/2694157128/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -4431,10 +4435,6 @@ https://kool.to/play/2849965291/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="SACHSENEINS", SACHSENEINS
 https://kool.to/play/2299297180/index.m3u8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Germany" tvg-name="MAGENTA SPORT 6", MAGENTA SPORT 6
-https://kool.to/play/2126125477/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Germany" tvg-name="NOA 4", NOA 4
