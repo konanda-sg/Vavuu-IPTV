@@ -1,4 +1,4 @@
-#EXTM3U8 url-tvg=https://epg.pw/xmltv/epg_DE.xml
+#EXTM3U8 x-url-tvg=https://vav00.de/sources/epg/epg_de.xml,https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz,https://epg.pw/xmltv/epg_DE.xml
 #EXTINF:-1 group-title="Germany" tvg-id="DE: 3sat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/3sat-Logo.svg/775px-3sat-Logo.svg.png" ,3SAT
 http://86.121.38.93:8000/play/a00x/index.m3u8
 #EXTINF:-1 group-title="Germany" tvg-id="DE: AINXE alpha" tvg-logo="https://github.com/3PO/Senderlogos/blob/master/euro%20news.png?raw=true" ,ANIXE
