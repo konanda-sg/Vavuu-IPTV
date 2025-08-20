@@ -3,11 +3,11 @@
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
 #EXTINF:-1 group-title="Germany" tvg-logo="https://i.imgur.com/ecXMjNl.png" tvg-name="ARTE",ARTE
 https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
-#EXTINF:-1 group-title="Germany" tvg-logo="" tvg-name="",ATV,https://i.imgur.com/1pA0Tid.png
+#EXTINF:-1 group-title="Germany" tvg-logo="https://i.imgur.com/1pA0Tid.png" tvg-name="",ATV
 https://strm.hdtvizlecanli.com/live/atv.m3u8
 #EXTINF:-1 group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logo_ATV2.svg/512px-Logo_ATV2.svg.png" tvg-name="ATV2",ATV2
 https://viamotionhsi.netplus.ch/live/eds/atv/browser-dash/atv.mpd
-#EXTINF:-1 group-title="Germany" tvg-logo="" tvg-name="",Kronehit,https://i.imgur.com/dQJQv1X.png
+#EXTINF:-1 group-title="Germany" tvg-logo="https://i.imgur.com/dQJQv1X.png" tvg-name="Kronehit",Kronehit
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 #EXTINF:-1 group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/N-tv_logo-september2017.svg/512px-N-tv_logo-september2017.svg.png" tvg-name="N-TV",N-TV
 https://viamotionhsi.netplus.ch/live/eds/ntv/browser-HLS8/ntv.m3u8
@@ -156,3 +156,4 @@ https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
 https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
 #EXTINF:-1 group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/578px-Logo_NDR_Fernsehen_2017.svg.png" tvg-name="NDR",NDR
 https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
+ 
