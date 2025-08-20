@@ -1,0 +1,158 @@
+#EXTM3U8 x-url-tvg=https://vav00.de/sources/epg/epg_de.xml,https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz,https://epg.pw/xmltv/epg_DE.xml
+#EXTINF:-1 group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/512px-3sat_2019.svg.png" tvg-name="3SAT",3SAT
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://i.imgur.com/ecXMjNl.png" tvg-name="ARTE",ARTE
+https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="" tvg-name="",ATV,https://i.imgur.com/1pA0Tid.png
+https://strm.hdtvizlecanli.com/live/atv.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logo_ATV2.svg/512px-Logo_ATV2.svg.png" tvg-name="ATV2",ATV2
+https://viamotionhsi.netplus.ch/live/eds/atv/browser-dash/atv.mpd
+#EXTINF:-1 group-title="Germany" tvg-logo="" tvg-name="",Kronehit,https://i.imgur.com/dQJQv1X.png
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/N-tv_logo-september2017.svg/512px-N-tv_logo-september2017.svg.png" tvg-name="N-TV",N-TV
+https://viamotionhsi.netplus.ch/live/eds/ntv/browser-HLS8/ntv.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nitro_Logo.svg/512px-Nitro_Logo.svg.png" tvg-name="NITRO",NITRO
+https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-HLS8/rtlnitro.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/ORF_1_2019.svg/512px-ORF_1_2019.svg.png" tvg-name="ORF 1",ORF 1
+https://viamotionhsi.netplus.ch/live/eds/orf1/browser-HLS8/orf1.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://i.imgur.com/svgv2q5.png" tvg-name="ORF ZWEI",ORF 2
+https://strm.hdtvizlecanli.com/live/orf2.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/ORF_III_Logo_Monochrom.svg/512px-ORF_III_Logo_Monochrom.svg.png" tvg-name="ORF III",ORF III
+https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://i.imgur.com/yH7n2dF.png" tvg-name="The Pet Collective",The Pet Collective
+https://6ec8627d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1RoZVBldENvbGxlY3RpdmVfSExT/playlist.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/11e7c52e-a7fd-48f3-b4c4-9f25dd37c36b-width200-quality90.jpeg" tvg-name="TNA Wrestling",TNA Wrestling
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ea4dadce395f0007086df2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c7788-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=649aa9eb-97bb-42d6-85e0-d0595821c87a
+#EXTINF:-1 group-title="Germany" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/dff3a92e-c4aa-49c4-b1b6-4a847428b8d5-width200-quality90.png" tvg-name="Z Nation",Z Nation
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883098
+#EXTINF:-1 group-title="Germany" tvg-logo="https://i.imgur.com/VIpQJxL.png" tvg-name="Fail Army",Fail Army,
+https://bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/playlist.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/1cc9ab7e-8283-4c32-a3f3-e2a4d0e1d33f-width200-quality90.jpeg" tvg-name="People Are Awesome",People Are Awesome
+https://3ab76e42.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1Blb3BsZUFyZUF3ZXNvbWVfSExT/playlist.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/11e7c52e-a7fd-48f3-b4c4-9f25dd37c36b-width200-quality90.jpeg" tvg-name="TNA Wrestling",TNA Wrestling
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ea4dadce395f0007086df2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c7788-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=649aa9eb-97bb-42d6-85e0-d0595821c87a
+#EXTINF:-1 group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/512px-ARD_alpha.svg.png" tvg-name="ARD-alpha",ARD-alpha
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://i.imgur.com/ecXMjNl.png" tvg-name="ARTE",ARTE
+https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://i.imgur.com/1UZNdRH.png" tvg-name="Chaos City",Chaos City
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60afbad343e3840007164348/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aca4b5-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ac925887-52f7-4055-a15c-ef63b5a406a8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://i.imgur.com/xIlF92v.png" tvg-name="Cheers",Cheers
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/611e7f224676bf00076a4d8d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aca4b6-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0d96d22d-3148-4e7e-b0e9-67b35648c724
+#EXTINF:-1 group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ARD_Dachmarke_2014.svg/512px-ARD_Dachmarke_2014.svg.png" tvg-name="Das Erste",Das Erste
+https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://i.imgur.com/s3h67hx.png" tvg-name="Deluxe Rap",Deluxe Rap
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" tvg-name="Disney Channel",Disney Channel
+https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://i.imgur.com/GadfTwF.png" tvg-name="Dokusat",Dokusat
+https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/HR-Fernsehen_Logo_2023.svg/512px-HR-Fernsehen_Logo_2023.svg.png" tvg-name="HR-Fernsehen",HR-Fernsehen
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://i.imgur.com/6pulSHZ.png" tvg-name="",KABEL EINS
+https://strm.hdtvizlecanli.com/live/kabel1.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/MDR_Logo_2017.svg/512px-MDR_Logo_2017.svg.png" tvg-name="MDR Sachsen-Anhalt",MDR Sachsen-Anhalt
+https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://i.imgur.com/8c54ycg.png" tvg-name="MOVIEDOME",MOVIEDOME
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/615c1e5ce3039400070a0547/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84addd31-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5bdf8fde-2533-4c16-b518-58e9777e93ca
+#EXTINF:-1 group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/N24Doku.svg/512px-N24Doku.svg.png" tvg-name="N24 DOKU",N24 DOKU
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60080e8a4bf36000076a81b1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae2b55-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=39199e43-689e-4f83-9f74-b89605373bf0
+#EXTINF:-1 group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/N24Doku.svg/512px-N24Doku.svg.png" tvg-name="NITRO",NITRO
+https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-HLS8/rtlnitro.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://i.imgur.com/T1532t9.png" tvg-name="PHOENIX",Phoenix,
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://i.imgur.com/zZOk3nh.png" tvg-name="ProSieben",ProSieben
+#EXTVLCOPT:http-referrer=http://85.187.13.40:18000/
+http://85.187.13.40:18000/ProSieben
+#EXTINF:-1 group-title="Germany" tvg-logo="https://i.imgur.com/Meew6eX.png" tvg-name="Rakuten TV Action Movies Germany",Rakuten TV Action Movies Germany
+https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://i.imgur.com/Meew6eX.png" tvg-name="Rakuten TV Comedy Movies Germany",Rakuten TV Comedy Movies Germany
+https://ecac08c9e2214375b907d6825aaf9a01.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6182/master.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://i.imgur.com/Meew6eX.png" tvg-name="Rakuten TV Drama Movies Germany",Rakuten TV Drama Movies Germany
+https://968754c2483045c1a9a7f677caec35b6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6096/master.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://i.imgur.com/Meew6eX.png" tvg-name="Rakuten TV Family Movies Germany",
+https://af230031eeac45f3b78d4f8a13265105.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://i.imgur.com/Meew6eX.png" tvg-name="Rakuten TV Top Movies Germany",Rakuten TV Top Movies Germany
+https://cbb622b29f5d43b598991f3fa19de291.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5985/master.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://i.imgur.com/94K94k2.png" tvg-name="RTL",RTL
+https://strm.hdtvizlecanli.com/live/rtl.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/512px-RTLZWEI_Logo_2019.svg.png" tvg-name="RTL II",RTL II
+https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-HLS8/rtl2.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/SR_Fernsehen_Logo_2023.svg/512px-SR_Fernsehen_Logo_2023.svg.png" tvg-name="SR Fernsehen",SR Fernsehen
+https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://i.imgur.com/92XNBmr.png" tvg-name="SRF",SRF
+https://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://i.imgur.com/xCiU1TB.png" tvg-name="Studio 47",Studio 47
+https://h057.video-stream-hosting.de/studio47-live/_definst_/mp4:livestream/playlist.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://i.imgur.com/PxSgxRO.jpg" tvg-name="SWR 3 Visual Radio",SWR 3 Visual Radio
+https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/SWR_Logo_2023.svg/512px-SWR_Logo_2023.svg.png" tvg-name="SWR Fernsehen",SWR Fernsehen
+https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/SWR_Logo_2023.svg/512px-SWR_Logo_2023.svg.png" tvg-name="SWR Fernsehen Rheinland-Pfalz",SWR Fernsehen Rheinland-Pfalz
+https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://i.imgur.com/LH0Gctv.png" tvg-name="Tagesschau 24",Tagesschau 24
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://i.imgur.com/xP7Ehn8.png" tvg-name="Tastemade",Tastemade
+https://rakutenaa-tm-germany-rakuten-ger-8jboz.amagi.tv/playlist/rakutenAA-tm-germany-rakuten-ger/playlist.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/11e7c52e-a7fd-48f3-b4c4-9f25dd37c36b-width200-quality90.jpeg" tvg-name="TNA Wrestling",TNA Wrestling
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ea4dadce395f0007086df2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c7788-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=649aa9eb-97bb-42d6-85e0-d0595821c87a
+#EXTINF:-1 group-title="Germany" tvg-logo="https://i.imgur.com/QPcmfZb.png" tvg-name="VOX",VOX
+https://viamotionhsi.netplus.ch/live/eds/vox/browser-HLS8/vox.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://i.imgur.com/RbqDMYx.png" tvg-name="WDR 1 Live",WDR 1 Live,
+https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WDR_Fernsehen_Logo_2018.svg/512px-WDR_Fernsehen_Logo_2018.svg.png" tvg-name="WDR Fernsehen",WDR Fernsehen
+https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://i.imgur.com/DLXssJe.png" tvg-name="Welt der Wunder TV",Welt der Wunder TV,
+https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://i.imgur.com/rtLb6m9.png" tvg-name="ZDF",ZDF
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://i.imgur.com/rtLb6m9.png" tvg-name="ZDF",ZDF
+https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-dash/zdfhd.mpd
+#EXTINF:-1 group-title="Germany" tvg-logo="https://i.imgur.com/rtLb6m9.png" tvg-name="ZDF",ZDF
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://i.imgur.com/vtq1IWp.png" tvg-name="ZDFinfo",ZDFinfo
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://i.imgur.com/1JIIGgL.png" tvg-name="ZDFneo",ZDFneo
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png" tvg-name="MDR Sachsen-Anhalt",MDR Sachsen-Anhalt
+https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/master.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png" tvg-name="Das Erste",Das Erste
+https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png" tvg-name="ZDF",ZDF
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/onehd.png" tvg-name="ONE",ONE
+https://mcdn-one.ard.de/ardone/hls/master.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfneohd.png" tvg-name="ZDFneo",ZDFneo
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/BildTV.png" tvg-name="Bild",Bild
+https://bild.personalstream.tv/v1/master.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/dokusat.png" tvg-name="DOKUSAT",Dokusat
+https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deluxemusic.png" tvg-name="Deluxe Music",DELUXE MUSIC
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deluxemusicrock.png" tvg-name="Deluxe Music Rock",DELUXE MUSIC ROCK
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65181/65181_264_live.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deluxemusicflashback.png" tvg-name="Deluxe Music Flashback",DELUXE MUSIC FLASHBACK
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deluxemusicdance.png" tvg-name="Deluxe Music Dance",DELUXE MUSIC DANCE
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deluxemusicrap.png" tvg-name="Deluxe Music Rap",DELUXE MUSIC RAP
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/visitxtv.png" tvg-name="Visit-X.tv",VISIT-X
+https://stream.visit-x.tv/vxtv/live/playlist.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://i.imgur.com/E65GQN9.png" tvg-name="Deluxe Music",DELUXE MUSIC
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Deluxe_Rap_Logo_2023.svg/666px-Deluxe_Rap_Logo_2023.svg.png" tvg-name="Deluxe Music Rap",DELUXE MUSIC RAP
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/One_2022.svg/640px-One_2022.svg.png" tvg-name="ONE",ONE
+https://mcdn-one.ard.de/ardone/hls/master.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/ZDFinfo_2011.svg/640px-ZDFinfo_2011.svg.png" tvg-name="ZDFinfo",ZDFinfo
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/ZDFneo2017_Logo.svg/569px-ZDFneo2017_Logo.svg.png" tvg-name="ZDFneo",ZDFneo
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/SR_Fernsehen_Logo_2023.svg/538px-SR_Fernsehen_Logo_2023.svg.png" tvg-name="SR",SR
+https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/640px-Wdr_fernsehen_logo_2016.svg.png" tvg-name="WDR Fernsehen",WDR1 Fernsehen
+https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/578px-Logo_NDR_Fernsehen_2017.svg.png" tvg-name="NDR",NDR
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
